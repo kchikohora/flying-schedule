@@ -1,7 +1,7 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Kudzi Ryanair Roster//EN
-CALSCAME:GREGORIAN
+CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
@@ -11,7 +11,7 @@ UID:20260417-flying@kudzi-roster
 DTSTART:20260417T131500Z
 DTEND:20260417T204800Z
 SUMMARY:✈️ FR7493/7494 — Alicante (Worked Day Off)
-DESCRIPTION:Leave home: ~13:15 BST\nCheck-in: 14:15 BST\n\nFR7493 Newcastle → Alicante\nDep: 15:00 BST  |  Arr: 17:57 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 18:30 BST  |  Arr: 21:18 BST\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome by: ~22:18 BST\n💰 Worked day off — paid extra
+DESCRIPTION:Leave home: ~13:15 BST\nCheck-in: 14:15 BST\n\nFR7493 Newcastle → Alicante\nDep: 15:00 BST  |  Arr: 17:57 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 18:30 BST  |  Arr: 21:18 BST\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome by: ~22:18 BST\n💰 Worked day off
 URL:https://www.flightradar24.com/data/flights/fr7493
 END:VEVENT
 
@@ -86,7 +86,7 @@ UID:20260501-flying@kudzi-roster
 DTSTART:20260501T042500Z
 DTEND:20260501T123500Z
 SUMMARY:✈️ FR7876/7875 — Malaga (Worked Day Off)
-DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:25 BST\nCheck-in: 05:25 BST\n\nFR7876 Newcastle → Malaga\nDep: 06:10 BST  |  Arr: 09:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr7876\n\nFR7875 Malaga → Newcastle\nDep: 09:55 BST  |  Arr: 13:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr7875\n\nHome by: ~14:05 BST\n💰 Worked day off — paid extra
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:25 BST\nCheck-in: 05:25 BST\n\nFR7876 Newcastle → Malaga\nDep: 06:10 BST  |  Arr: 09:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr7876\n\nFR7875 Malaga → Newcastle\nDep: 09:55 BST  |  Arr: 13:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr7875\n\nHome by: ~14:05 BST\n💰 Worked day off
 URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 
@@ -186,7 +186,7 @@ UID:20260515-flying@kudzi-roster
 DTSTART:20260515T041000Z
 DTEND:20260515T101500Z
 SUMMARY:✈️ FR6104/6103 — Gdansk (Worked Day Off)
-DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR6104 Newcastle → Gdansk\nDep: 05:55 BST  |  Arr: 08:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr6104\n\nFR6103 Gdansk → Newcastle\nDep: 08:30 BST  |  Arr: 10:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr6103\n\nHome by: ~11:45 BST\n💰 Worked day off — paid extra
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR6104 Newcastle → Gdansk\nDep: 05:55 BST  |  Arr: 08:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr6104\n\nFR6103 Gdansk → Newcastle\nDep: 08:30 BST  |  Arr: 10:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr6103\n\nHome by: ~11:45 BST\n💰 Worked day off
 URL:https://www.flightradar24.com/data/flights/fr6104
 END:VEVENT
 
