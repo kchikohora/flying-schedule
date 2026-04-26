@@ -26,8 +26,8 @@ BEGIN:VEVENT
 UID:20260420-flying@kudzi-roster
 DTSTART:20260420T041500Z
 DTEND:20260420T121400Z
-SUMMARY:✈️ 4 Sectors — Brussels & Dublin
-DESCRIPTION:⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available\n\n🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:15 BST\n\nFR7051 Newcastle → Brussels\nDep: 05:54 BST  |  Arr: 07:18 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels → Newcastle\nDep: 08:03 BST  |  Arr: 09:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:04 BST  |  Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:42 BST  |  Arr: 12:44 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around: ~13:44 BST\n4 sectors today
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ 4 Sectors — Brussels & Dublin
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:15 BST\n\nFR7051 Newcastle → Brussels\nDep: 05:54 BST  |  Arr: 07:18 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels → Newcastle\nDep: 08:03 BST  |  Arr: 09:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:04 BST  |  Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:42 BST  |  Arr: 12:44 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around: ~13:44 BST\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7051
 END:VEVENT
 
@@ -59,8 +59,8 @@ BEGIN:VEVENT
 UID:20260428-dublin@kudzi-roster
 DTSTART:20260428T093000Z
 DTEND:20260428T190000Z
-SUMMARY:📋 Office Day Dublin → Home
-DESCRIPTION:⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available\n\nStill in Dublin (night stop)\n\nOffice duties in Dublin 09:00–17:00 BST\n\nDead head home:\nFR20 Dublin → Newcastle\nDep: 18:30 BST  |  Arr: 19:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around: ~20:40 BST
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day Dublin → Home
+DESCRIPTION:Still in Dublin (night stop)\n\nOffice duties in Dublin 09:00–17:00 BST\n\nDead head home:\nFR20 Dublin → Newcastle\nDep: 18:30 BST  |  Arr: 19:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around: ~20:40 BST
 URL:https://www.flightradar24.com/data/flights/fr20
 END:VEVENT
 
@@ -201,8 +201,8 @@ BEGIN:VEVENT
 UID:20260518-flying@kudzi-roster
 DTSTART:20260518T041000Z
 DTEND:20260518T111500Z
-SUMMARY:✈️ FR4819/4820 — Zadar
-DESCRIPTION:⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available\n\n🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST  |  Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST  |  Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around: ~12:45 BST\n2 sectors today
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST  |  Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST  |  Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around: ~12:45 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 
@@ -210,8 +210,8 @@ BEGIN:VEVENT
 UID:20260519-flying@kudzi-roster
 DTSTART:20260519T042000Z
 DTEND:20260519T115000Z
-SUMMARY:✈️ FR2347/2346 — Palma
-DESCRIPTION:⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available\n\n🌅 Up at ~04:00 BST\nLeave home: ~04:20 BST\nCheck-in: 05:20 BST\n\nFR2347 Newcastle → Palma\nDep: 06:05 BST  |  Arr: 08:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 09:25 BST  |  Arr: 12:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nHome around: ~13:20 BST\n2 sectors today
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR2347/2346 — Palma
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:20 BST\nCheck-in: 05:20 BST\n\nFR2347 Newcastle → Palma\nDep: 06:05 BST  |  Arr: 08:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 09:25 BST  |  Arr: 12:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nHome around: ~13:20 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr2347
 END:VEVENT
 
