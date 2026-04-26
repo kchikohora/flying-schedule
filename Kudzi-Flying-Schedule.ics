@@ -16,13 +16,6 @@ URL:https://www.flightradar24.com/data/flights/fr7493
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260418-off@kudzi-roster
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260420-flying@kudzi-roster
 DTSTART:20260420T041500Z
 DTEND:20260420T121400Z
@@ -37,13 +30,6 @@ DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260425
 SUMMARY:⚖️ Jury Duty
 DESCRIPTION:Jury service — Mon to Fri
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260425-off@kudzi-roster
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260427
-SUMMARY:🟢 Days Off
 END:VEVENT
 
 BEGIN:VEVENT
@@ -91,13 +77,6 @@ URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260502-off@kudzi-roster
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260504
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260504-flying@kudzi-roster
 DTSTART:20260504T105000Z
 DTEND:20260504T212500Z
@@ -139,13 +118,6 @@ DTEND:20260508T121500Z
 SUMMARY:✈️ 4 Sectors — Brussels & Dublin
 DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR7051 Newcastle → Brussels\nDep: 05:55 BST  |  Arr: 07:35 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels → Newcastle\nDep: 08:05 BST  |  Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05 BST  |  Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST  |  Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around: ~13:45 BST\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7051
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260509-off@kudzi-roster
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:🟢 Days Off
 END:VEVENT
 
 BEGIN:VEVENT
@@ -191,13 +163,6 @@ URL:https://www.flightradar24.com/data/flights/fr6104
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260516-off@kudzi-roster
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260518
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260518-flying@kudzi-roster
 DTSTART:20260518T041000Z
 DTEND:20260518T111500Z
@@ -239,13 +204,6 @@ DTEND:20260522T123500Z
 SUMMARY:✈️ FR7876/7875 — Malaga
 DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:25 BST\nCheck-in: 05:25 BST\n\nFR7876 Newcastle → Malaga\nDep: 06:10 BST  |  Arr: 09:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr7876\n\nFR7875 Malaga → Newcastle\nDep: 09:55 BST  |  Arr: 13:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr7875\n\nHome around: ~14:05 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7876
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260523-off@kudzi-roster
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-SUMMARY:🟢 Days Off
 END:VEVENT
 
 BEGIN:VEVENT
