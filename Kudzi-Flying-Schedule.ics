@@ -70,9 +70,9 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260501-flying@kudzi-roster
 DTSTART:20260501T042500Z
-DTEND:20260501T123500Z
+DTEND:20260501T122600Z
 SUMMARY:✈️ FR7876/7875 — Malaga (Worked Day Off)
-DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:25 BST\nCheck-in: 05:25 BST\n\nFR7876 Newcastle → Malaga\nDep: 06:10 BST  |  Arr: 09:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr7876\n\nFR7875 Malaga → Newcastle\nDep: 09:55 BST  |  Arr: 13:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr7875\n\nHome around: ~14:05 BST\n💰 Worked day off\n2 sectors today
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:25 BST\nCheck-in: 05:25 BST\n\nFR7876 Newcastle → Malaga\nDep: 06:08 BST  |  Arr: 09:18 BST\nTrack: https://www.flightradar24.com/data/flights/fr7876\n\nFR7875 Malaga → Newcastle\nDep: 09:55 BST  |  Arr: 12:56 BST\nTrack: https://www.flightradar24.com/data/flights/fr7875\n\nHome around: ~13:56 BST\n💰 Worked day off\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 
@@ -207,6 +207,85 @@ URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 
 BEGIN:VEVENT
+UID:20260525-flying@kudzi-roster
+DTSTART:20260525T105000Z
+DTEND:20260525T212500Z
+SUMMARY:✈️ 4 Sectors — Palma & Dublin
+DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST  |  Arr: 15:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST  |  Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST  |  Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST  |  Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around: ~22:55 BST\n4 sectors today
+URL:https://www.flightradar24.com/data/flights/fr2347
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260526-flying@kudzi-roster
+DTSTART:20260526T134500Z
+DTEND:20260527T002500Z
+SUMMARY:✈️ FR414/415 — Lanzarote
+DESCRIPTION:Leave home: ~13:45 BST\nCheck-in: 14:45 BST\n\nFR414 Newcastle → Lanzarote\nDep: 15:30 BST  |  Arr: 20:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 20:35 BST  |  Arr: 00:55 BST (27 May)\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around: ~01:55 BST (27 May)\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr414
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260527-office@kudzi-roster
+DTSTART:20260527T080000Z
+DTEND:20260527T160000Z
+SUMMARY:📋 Office Day — Newcastle
+DESCRIPTION:Newcastle\n09:00–17:00 BST
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260528-flying@kudzi-roster
+DTSTART:20260528T063000Z
+DTEND:20260528T165000Z
+SUMMARY:✈️ FR4601/4600 — Chania (Crete)
+DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST  |  Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST  |  Arr: 17:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around: ~18:20 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr4601
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260529-off@kudzi-roster
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:🟢 Day Off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260530-flying@kudzi-roster
+DTSTART:20260530T044500Z
+DTEND:20260530T123000Z
+SUMMARY:✈️ FR7493/7494 — Alicante (Worked Day Off)
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:45 BST\nCheck-in: 05:45 BST\n\nFR7493 Newcastle → Alicante\nDep: 06:30 BST  |  Arr: 09:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 10:00 BST  |  Arr: 13:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around: ~14:00 BST\n💰 Worked day off\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr7493
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260531-off@kudzi-roster
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:🟢 Day Off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260101-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🇬🇧 New Year's Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260403-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:🇬🇧 Good Friday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260406-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:🇬🇧 Easter Monday
+END:VEVENT
+
+BEGIN:VEVENT
 UID:20260504-bh@kudzi-roster
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
@@ -262,27 +341,6 @@ DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20270101
 SUMMARY:🏖️ Annual Leave
 DESCRIPTION:4 days annual leave over New Year
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260101-bh@kudzi-roster
-DTSTART;VALUE=DATE:20260101
-DTEND;VALUE=DATE:20260102
-SUMMARY:🇬🇧 New Year's Day
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260403-bh@kudzi-roster
-DTSTART;VALUE=DATE:20260403
-DTEND;VALUE=DATE:20260404
-SUMMARY:🇬🇧 Good Friday
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260406-bh@kudzi-roster
-DTSTART;VALUE=DATE:20260406
-DTEND;VALUE=DATE:20260407
-SUMMARY:🇬🇧 Easter Monday
 END:VEVENT
 
 BEGIN:VEVENT
