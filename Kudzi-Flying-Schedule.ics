@@ -242,26 +242,12 @@ URL:https://www.flightradar24.com/data/flights/fr4601
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260529-off@kudzi-roster
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:🟢 Day Off
-END:VEVENT
-
-BEGIN:VEVENT
 UID:20260530-flying@kudzi-roster
 DTSTART:20260530T044500Z
 DTEND:20260530T123000Z
 SUMMARY:✈️ FR7493/7494 — Alicante (Worked Day Off)
 DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:45 BST\nCheck-in: 05:45 BST\n\nFR7493 Newcastle → Alicante\nDep: 06:30 BST  |  Arr: 09:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 10:00 BST  |  Arr: 13:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around: ~14:00 BST\n💰 Worked day off\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7493
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260531-off@kudzi-roster
-DTSTART;VALUE=DATE:20260531
-DTEND;VALUE=DATE:20260601
-SUMMARY:🟢 Day Off
 END:VEVENT
 
 BEGIN:VEVENT
@@ -344,38 +330,12 @@ DESCRIPTION:4 days annual leave over New Year
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260425-off@kudzi-roster
-DTSTART;VALUE=DATE:20260425
-DTEND;VALUE=DATE:20260427
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260502-off@kudzi-roster
-DTSTART;VALUE=DATE:20260502
-DTEND;VALUE=DATE:20260504
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260509-off@kudzi-roster
-DTSTART;VALUE=DATE:20260509
-DTEND;VALUE=DATE:20260511
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260516-off@kudzi-roster
-DTSTART;VALUE=DATE:20260516
-DTEND;VALUE=DATE:20260518
-SUMMARY:🟢 Days Off
-END:VEVENT
-
-BEGIN:VEVENT
-UID:20260523-off@kudzi-roster
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260525
-SUMMARY:🟢 Days Off
+UID:20260503-flying@kudzi-roster
+DTSTART:20260503T160000Z
+DTEND:20260504T002000Z
+SUMMARY:✈️ FR7876/7875 — Malaga (Worked Day Off)
+DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR7876 Newcastle → Malaga\nDep: 17:45 BST  |  Arr: 20:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr7876\n\nFR7875 Malaga → Newcastle\nDep: 21:40 BST  |  Arr: 00:50 BST (4 May)\nTrack: https://www.flightradar24.com/data/flights/fr7875\n\nHome around: ~01:50 BST (4 May)\n💰 Worked day off\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 
 END:VCALENDAR
