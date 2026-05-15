@@ -268,12 +268,11 @@ DESCRIPTION:Newcastle\n09:00–17:00
 END:VEVENT
 
 BEGIN:VEVENT
-UID:20260521-flying@kudzi-roster
-DTSTART:20260521T041500Z
-DTEND:20260521T134500Z
-SUMMARY:✈️ FR6110/6109 — Malta
-DESCRIPTION:🌅 Up at ~04:00\nLeave home: ~04:15\nCheck-in: 05:15\n\nFR6110 Newcastle → Malta\nDep: 06:00  |  Arr: 09:40\nTrack: https://www.flightradar24.com/data/flights/fr6110\n\nFR6109 Malta → Newcastle\nDep: 10:25  |  Arr: 14:15\nTrack: https://www.flightradar24.com/data/flights/fr6109\n\nHome around: ~15:15\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr6110
+UID:20260521-office@kudzi-roster
+DTSTART:20260521T080000Z
+DTEND:20260521T160000Z
+SUMMARY:📋 Office Day — Newcastle
+DESCRIPTION:Newcastle\n09:00–17:00
 END:VEVENT
 
 BEGIN:VEVENT
@@ -323,10 +322,10 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260530-flying@kudzi-roster
 DTSTART:20260530T044500Z
-DTEND:20260530T123000Z
-SUMMARY:✈️ FR7493/7494 — Alicante (Worked Day Off)
-DESCRIPTION:🌅 Up at ~04:00\nLeave home: ~04:45\nCheck-in: 05:45\n\nFR7493 Newcastle → Alicante\nDep: 06:30  |  Arr: 09:25\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 10:00  |  Arr: 13:00\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around: ~14:00\n💰 Worked day off\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr7493
+DTEND:20260530T160000Z
+SUMMARY:✈️ FR414/415 — Lanzarote (Worked Day Off)
+DESCRIPTION:🌅 Up at ~04:30\nLeave home: ~04:45\nCheck-in: 05:45\n\nFR414 Newcastle → Lanzarote\nDep: 06:30  |  Arr: 11:00\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 11:40  |  Arr: 16:00\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around: ~17:00\n💰 Worked day off\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr414
 END:VEVENT
 
 BEGIN:VEVENT
@@ -370,6 +369,142 @@ DTEND:20260605T205000Z
 SUMMARY:✈️ 4 Sectors — Alicante & Dublin
 DESCRIPTION:Leave home: ~09:50\nCheck-in: 10:50\n\nFR4080 Newcastle → Alicante\nDep: 11:35  |  Arr: 14:30\nTrack: https://www.flightradar24.com/data/flights/fr4080\n\nFR4079 Alicante → Newcastle\nDep: 15:05  |  Arr: 18:05\nTrack: https://www.flightradar24.com/data/flights/fr4079\n\nFR21 Newcastle → Dublin\nDep: 18:40  |  Arr: 19:45\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:10  |  Arr: 21:20\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around: ~22:20\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4080
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260516-off@kudzi-roster
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260518
+SUMMARY:🟢 Days Off
+DESCRIPTION:2 days off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260523-off@kudzi-roster
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260525
+SUMMARY:🟢 Days Off
+DESCRIPTION:2 days off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260529-off@kudzi-roster
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:🟢 Day Off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260531-off@kudzi-roster
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:🟢 Day Off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260606-off@kudzi-roster
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260608
+SUMMARY:🟢 Days Off
+DESCRIPTION:2 days off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260608-flying@kudzi-roster
+DTSTART:20260608T115000Z
+DTEND:20260608T203000Z
+SUMMARY:✈️ FR431/430 — Malaga
+DESCRIPTION:Leave home: ~11:50\nCheck-in: 12:50\n\nFR431 Newcastle → Malaga\nDep: 13:35  |  Arr: 16:45\nTrack: https://www.flightradar24.com/data/flights/fr431\n\nFR430 Malaga → Newcastle\nDep: 17:20  |  Arr: 20:30\nTrack: https://www.flightradar24.com/data/flights/fr430\n\nHome around: ~21:30\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr431
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260609-hsby@kudzi-roster
+DTSTART:20260609T093000Z
+DTEND:20260609T210000Z
+SUMMARY:🏠 Home Standby — on call until 22:00
+DESCRIPTION:On call from home — standby until 22:00
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260610-office@kudzi-roster
+DTSTART:20260610T080000Z
+DTEND:20260610T160000Z
+SUMMARY:📋 Office Day — Newcastle
+DESCRIPTION:Newcastle\n09:00–17:00
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260611-flying@kudzi-roster
+DTSTART:20260611T162500Z
+DTEND:20260612T003000Z
+SUMMARY:✈️ FR6482/6483 — Palma
+DESCRIPTION:Leave home: ~16:25\nCheck-in: 17:25\n\nFR6482 Newcastle → Palma\nDep: 18:10  |  Arr: 20:55\nTrack: https://www.flightradar24.com/data/flights/fr6482\n\nFR6483 Palma → Newcastle\nDep: 21:35  |  Arr: 00:30 (12 Jun)\nTrack: https://www.flightradar24.com/data/flights/fr6483\n\nHome around: ~01:30 (12 Jun)\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr6482
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260612-off@kudzi-roster
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+SUMMARY:🟢 Days Off
+DESCRIPTION:3 days off
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260101-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:🇬🇧 New Year's Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260403-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:🇬🇧 Good Friday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260406-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:🇬🇧 Easter Monday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260504-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:🇬🇧 Early May Bank Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260525-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:🇬🇧 Spring Bank Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260831-bh@kudzi-roster
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:🇬🇧 Summer Bank Holiday
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261225-bh@kudzi-roster
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:🇬🇧 Christmas Day
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20261228-bh@kudzi-roster
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:🇬🇧 Boxing Day (substitute)
 END:VEVENT
 
 END:VCALENDAR
