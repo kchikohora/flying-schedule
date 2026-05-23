@@ -405,12 +405,6 @@ DESCRIPTION:Leave home: ~16:25\nCheck-in: 17:25\n\nFR6482 Newcastle → Palma\nD
 URL:https://www.flightradar24.com/data/flights/fr6482
 END:VEVENT
 
-BEGIN:VEVENT
-UID:20260612-off@kudzi-roster
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260615
-SUMMARY:🟢 Days Off
-END:VEVENT
 
 BEGIN:VEVENT
 UID:20260615-flying@kudzi-roster
@@ -456,12 +450,6 @@ DESCRIPTION:🌅 Up at ~04:00\nLeave home: ~04:25\nCheck-in: 05:25\n\nFR7876 New
 URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 
-BEGIN:VEVENT
-UID:20260620-off@kudzi-roster
-DTSTART;VALUE=DATE:20260620
-DTEND;VALUE=DATE:20260622
-SUMMARY:🟢 Days Off
-END:VEVENT
 
 BEGIN:VEVENT
 UID:20260101-bh@kudzi-roster
