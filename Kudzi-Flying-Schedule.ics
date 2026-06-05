@@ -395,8 +395,8 @@ BEGIN:VEVENT
 UID:20260622-flying@kudzi-roster
 DTSTART:20260622T031500Z
 DTEND:20260622T121500Z
-SUMMARY:✈️ FR7051/7050/17/16 — Bergamo + Dublin
-DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR7051 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 07:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Bergamo (Milan) → Newcastle\nDep: 08:05 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05 BST | Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\n4 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+SUMMARY:✈️ FR7051/7050/17/16 — Brussels + Dublin
+DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR7051 Newcastle → Brussels (Charleroi)\nDep: 06:00 BST | Arr: 07:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels (Charleroi) → Newcastle\nDep: 08:05 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05 BST | Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\n4 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 URL:https://www.flightradar24.com/data/flights/fr7051
 END:VEVENT
 BEGIN:VEVENT
