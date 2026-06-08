@@ -211,7 +211,7 @@ UID:20260518-flying@kudzi-roster
 DTSTART:20260518T041500Z
 DTEND:20260518T121500Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ 4 Sectors — Brussels & Dublin
-DESCRIPTION:🌅 Up at ~04:00\nLeave home: ~04:15\nCheck-in: 05:15\n\nFR7051 Newcastle → Brussels\nDep: 06:00  |  Arr: 07:40\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels → Newcastle\nDep: 08:05  |  Arr: 09:40\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05  |  Arr: 11:10\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35  |  Arr: 12:45\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around: ~13:45\n4 sectors today
+DESCRIPTION:🌅 Up at ~04:00\nLeave home: ~04:15\nCheck-in: 05:15\n\nFR7051 Newcastle → Brussels\nDep: 06:00  |  Arr: 07:40\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR7050 Brussels → Newcastle\nDep: 08:05  |  Arr: 09:40\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05  |  Arr: 11:10\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35  |  Arr: 12:45\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around: ~13:45\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7051
 END:VEVENT
 BEGIN:VEVENT
@@ -421,6 +421,45 @@ DTEND:20260625T103500Z
 SUMMARY:✈️ FR460/461 — Bergamo (Milan)
 DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr460
+END:VEVENT
+
+BEGIN:VEVENT
+UID:20260629-flying@kudzi-roster
+DTSTART:20260629T105000Z
+DTEND:20260629T200000Z
+SUMMARY:✈️ FR431/430 — Malaga
+DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR431 Newcastle → Malaga\nDep: 13:35 BST | Arr: 16:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr431\n\nFR430 Malaga → Newcastle\nDep: 17:20 BST | Arr: 20:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr430\n\nHome around ~21:30 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr431
+END:VEVENT
+BEGIN:VEVENT
+UID:20260630-flying@kudzi-roster
+DTSTART:20260630T150000Z
+DTEND:20260701T002000Z
+SUMMARY:✈️ FR431/430 — Malaga
+DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR431 Newcastle → Malaga\nDep: 17:45 BST | Arr: 20:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr431\n\nFR430 Malaga → Newcastle\nDep: 21:40 BST | Arr: 00:50 BST (1 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr430\n\nHome around ~01:50 BST (1 Jul)\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr431
+END:VEVENT
+BEGIN:VEVENT
+UID:20260701-office@kudzi-roster
+DTSTART:20260701T080000Z
+DTEND:20260701T160000Z
+SUMMARY:📋 Office Day — Newcastle
+DESCRIPTION:Newcastle\n09:00–17:00 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260702-hsby@kudzi-roster
+DTSTART:20260702T053000Z
+DTEND:20260702T153000Z
+SUMMARY:🏠 Home Standby — on call until 16:30 BST
+DESCRIPTION:On call from home — standby until 16:30 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260703-flying@kudzi-roster
+DTSTART:20260703T031000Z
+DTEND:20260703T121500Z
+SUMMARY:✈️ FR7051/7050/17/16 — Brussels + Dublin
+DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR7051 Newcastle → Brussels (Charleroi)\nDep: 05:55 BST | Arr: 07:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels (Charleroi) → Newcastle\nDep: 08:05 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05 BST | Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\n4 sectors today
+URL:https://www.flightradar24.com/data/flights/fr7051
 END:VEVENT
 
 END:VCALENDAR
