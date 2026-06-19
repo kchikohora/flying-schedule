@@ -391,6 +391,13 @@ DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n
 URL:https://www.flightradar24.com/data/flights/fr6104
 END:VEVENT
 BEGIN:VEVENT
+UID:20260620-hsby@kudzi-roster
+DTSTART:20260620T080000Z
+DTEND:20260620T150000Z
+SUMMARY:🏠 Home Standby — on call until 16:00 BST
+DESCRIPTION:On call from home — standby until 16:00 BST
+END:VEVENT
+BEGIN:VEVENT
 UID:20260622-flying@kudzi-roster
 DTSTART:20260622T031500Z
 DTEND:20260622T121500Z
