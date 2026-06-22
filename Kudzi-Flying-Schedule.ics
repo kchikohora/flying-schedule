@@ -158,37 +158,9 @@ SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
-UID:20260624-flying@kudzi-roster
-DTSTART:20260624T123000Z
-DTEND:20260624T160000Z
-SUMMARY:📋 Office Day
-DESCRIPTION:Leave home: ~13:30 BST
-URL:https://www.flightradar24.com/data/flights/sd
-END:VEVENT
 BEGIN:VEVENT
-UID:20260701-flying@kudzi-roster
-DTSTART:20260701T103000Z
-DTEND:20260701T173000Z
-SUMMARY:📋 Office Day
-DESCRIPTION:Leave home: ~11:30 BST
-URL:https://www.flightradar24.com/data/flights/sd
-END:VEVENT
 BEGIN:VEVENT
-UID:20260708-flying@kudzi-roster
-DTSTART:20260708T073000Z
-DTEND:20260708T173000Z
-SUMMARY:📋 Office Day
-DESCRIPTION:Leave home: ~08:30 BST
-URL:https://www.flightradar24.com/data/flights/sd
-END:VEVENT
 BEGIN:VEVENT
-UID:20260715-flying@kudzi-roster
-DTSTART:20260715T073000Z
-DTEND:20260715T160000Z
-SUMMARY:📋 Office Day
-DESCRIPTION:Leave home: ~08:30 BST
-URL:https://www.flightradar24.com/data/flights/sd
-END:VEVENT
 BEGIN:VEVENT
 UID:20260101-al@kudzi-roster
 DTSTART;VALUE=DATE:20260101
