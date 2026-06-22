@@ -30,12 +30,11 @@ DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR431 Newcastle → M
 URL:https://www.flightradar24.com/data/flights/fr431
 END:VEVENT
 BEGIN:VEVENT
-UID:20260624-flying@kudzi-roster
-DTSTART:20260624T123000Z
+UID:20260624-office@kudzi-roster
+DTSTART:20260624T133000Z
 DTEND:20260624T160000Z
-SUMMARY:✈️ SD — N/A
-DESCRIPTION:Leave home: ~13:30 BST\nCheck-in: 14:30 BST\n\nSD Newcastle → Newcastle\nDep: 14:30 BST | Arr: 17:00 BST\nTrack: https://www.flightradar24.com/data/flights/sd\n\nHome around ~18:00 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/sd
+SUMMARY:📋 Office Day — Newcastle (14:30–17:00 BST)
+DESCRIPTION:Newcastle\n14:30–17:00 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260625-flying@kudzi-roster
@@ -62,12 +61,11 @@ DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR431 Newcastle → M
 URL:https://www.flightradar24.com/data/flights/fr431
 END:VEVENT
 BEGIN:VEVENT
-UID:20260701-flying@kudzi-roster
-DTSTART:20260701T103000Z
+UID:20260701-office@kudzi-roster
+DTSTART:20260701T113000Z
 DTEND:20260701T173000Z
-SUMMARY:✈️ SD — N/A
-DESCRIPTION:Leave home: ~11:30 BST\nCheck-in: 12:30 BST\n\nSD Newcastle → Newcastle\nDep: 12:30 BST | Arr: 18:30 BST\nTrack: https://www.flightradar24.com/data/flights/sd\n\nHome around ~19:30 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/sd
+SUMMARY:📋 Office Day — Newcastle (12:30–18:30 BST)
+DESCRIPTION:Newcastle\n12:30–18:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260702-hsby@kudzi-roster
@@ -89,7 +87,7 @@ UID:20260706-flying@kudzi-roster
 DTSTART:20260706T095000Z
 DTEND:20260706T212500Z
 SUMMARY:✈️ FR2347/2346/21/20 — Palma + Dublin
-DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST | Arr: 15:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
+DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:55 BST | Arr: 15:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr2347
 END:VEVENT
 BEGIN:VEVENT
@@ -100,12 +98,11 @@ SUMMARY:🏠 Home Standby — on call until 21:30 BST
 DESCRIPTION:On call from home — standby until 21:30 BST
 END:VEVENT
 BEGIN:VEVENT
-UID:20260708-flying@kudzi-roster
-DTSTART:20260708T073000Z
+UID:20260708-office@kudzi-roster
+DTSTART:20260708T083000Z
 DTEND:20260708T173000Z
-SUMMARY:✈️ SD — N/A
-DESCRIPTION:Leave home: ~08:30 BST\nCheck-in: 09:30 BST\n\nSD Newcastle → Newcastle\nDep: 09:30 BST | Arr: 18:30 BST\nTrack: https://www.flightradar24.com/data/flights/sd\n\nHome around ~19:30 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/sd
+SUMMARY:📋 Office Day — Newcastle (09:30–18:30 BST)
+DESCRIPTION:Newcastle\n09:30–18:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260709-flying@kudzi-roster
@@ -131,12 +128,11 @@ SUMMARY:🏠 Home Standby — on call until 22:30 BST
 DESCRIPTION:On call from home — standby until 22:30 BST
 END:VEVENT
 BEGIN:VEVENT
-UID:20260715-flying@kudzi-roster
-DTSTART:20260715T073000Z
+UID:20260715-office@kudzi-roster
+DTSTART:20260715T083000Z
 DTEND:20260715T160000Z
-SUMMARY:✈️ SD — N/A
-DESCRIPTION:Leave home: ~08:30 BST\nCheck-in: 09:30 BST\n\nSD Newcastle → Newcastle\nDep: 09:30 BST | Arr: 17:00 BST\nTrack: https://www.flightradar24.com/data/flights/sd\n\nHome around ~18:00 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/sd
+SUMMARY:📋 Office Day — Newcastle (09:30–17:00 BST)
+DESCRIPTION:Newcastle\n09:30–17:00 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260716-flying@kudzi-roster
@@ -160,6 +156,38 @@ DTSTART;VALUE=DATE:20260702
 DTEND;VALUE=DATE:20260703
 SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260624-flying@kudzi-roster
+DTSTART:20260624T123000Z
+DTEND:20260624T160000Z
+SUMMARY:📋 Office Day
+DESCRIPTION:Leave home: ~13:30 BST
+URL:https://www.flightradar24.com/data/flights/sd
+END:VEVENT
+BEGIN:VEVENT
+UID:20260701-flying@kudzi-roster
+DTSTART:20260701T103000Z
+DTEND:20260701T173000Z
+SUMMARY:📋 Office Day
+DESCRIPTION:Leave home: ~11:30 BST
+URL:https://www.flightradar24.com/data/flights/sd
+END:VEVENT
+BEGIN:VEVENT
+UID:20260708-flying@kudzi-roster
+DTSTART:20260708T073000Z
+DTEND:20260708T173000Z
+SUMMARY:📋 Office Day
+DESCRIPTION:Leave home: ~08:30 BST
+URL:https://www.flightradar24.com/data/flights/sd
+END:VEVENT
+BEGIN:VEVENT
+UID:20260715-flying@kudzi-roster
+DTSTART:20260715T073000Z
+DTEND:20260715T160000Z
+SUMMARY:📋 Office Day
+DESCRIPTION:Leave home: ~08:30 BST
+URL:https://www.flightradar24.com/data/flights/sd
 END:VEVENT
 BEGIN:VEVENT
 UID:20260101-al@kudzi-roster
@@ -537,33 +565,5 @@ DTEND:20260618T103500Z
 SUMMARY:✈️ FR460/461 — Bergamo (Milan)
 DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr460
-END:VEVENT
-BEGIN:VEVENT
-UID:20260624-office@kudzi-roster
-DTSTART:20260624T080000Z
-DTEND:20260624T160000Z
-SUMMARY:📋 Office Day — Newcastle
-DESCRIPTION:Newcastle\n09:00–17:00 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260701-office@kudzi-roster
-DTSTART:20260701T080000Z
-DTEND:20260701T160000Z
-SUMMARY:📋 Office Day — Newcastle
-DESCRIPTION:Newcastle\n09:00–17:00 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260708-office@kudzi-roster
-DTSTART:20260708T080000Z
-DTEND:20260708T160000Z
-SUMMARY:📋 Office Day — Newcastle
-DESCRIPTION:Newcastle\n09:00–17:00 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260715-office@kudzi-roster
-DTSTART:20260715T080000Z
-DTEND:20260715T160000Z
-SUMMARY:📋 Office Day — Newcastle
-DESCRIPTION:Newcastle\n09:00–17:00 BST
 END:VEVENT
 END:VCALENDAR
