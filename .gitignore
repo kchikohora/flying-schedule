@@ -1,0 +1,25 @@
+# Secrets — never commit
+.roster_config
+.env
+
+# Source roster (private, large) — not needed in the calendar repo
+Print Roster.pdf
+*.pdf
+
+# Old browser-push helper (superseded by git)
+github_push.html
+
+# Packaged skill (kept locally, not in repo)
+*.skill
+
+# Old-named ICS (superseded by Kudzi-Flying-Schedule.ics)
+Kudzi's Flying Schedule.ics
+
+# Personal docs (local only)
+CLAUDE.md
+PROGRESS.md
+PROMPTS-claude-code.md
+SETUP-claude-code.md
+
+# macOS cruft
+.DS_Store
