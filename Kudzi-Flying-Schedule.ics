@@ -120,7 +120,7 @@ UID:20260713-flying@kudzi-roster
 DTSTART:20260713T150000Z
 DTEND:20260713T234500Z
 SUMMARY:✈️ FR7493/7494 — Alicante
-DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR7493 Newcastle → Alicante\nDep: 17:45 BST | Arr: 20:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 21:15 BST | Arr: 00:25 BST (14 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around ~01:25 BST (14 Jul)\n2 sectors today
+DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR7493 Newcastle → Alicante\nDep: 17:45 BST | Arr: 20:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 21:15 BST | Arr: 00:15 BST (14 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around ~01:15 BST (14 Jul)\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr7493
 END:VEVENT
 BEGIN:VEVENT
