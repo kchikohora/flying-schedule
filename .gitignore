@@ -20,5 +20,10 @@ PROGRESS.md
 PROMPTS-claude-code.md
 SETUP-claude-code.md
 
+# Intermediate pipeline files (local only)
+roster.json
+.last_roster_stats
+.claude/
+
 # macOS cruft
 .DS_Store
