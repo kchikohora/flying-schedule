@@ -3,7 +3,6 @@
 .env
 
 # Source roster (private, large) — not needed in the calendar repo
-Print Roster.pdf
 *.pdf
 
 # Old browser-push helper (superseded by git)
