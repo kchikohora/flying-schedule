@@ -10,7 +10,7 @@ UID:20260619-flying@kudzi-roster
 DTSTART:20260619T031000Z
 DTEND:20260619T102200Z
 SUMMARY:✈️ FR6104/6103 — Gdańsk
-DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR6104 Newcastle → Gdańsk\nDep: 05:54 BST | Arr: 07:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr6104\n\nFR6103 CDN → Newcastle\nDep: 08:28 BST | Arr: 10:52 BST\nTrack: https://www.flightradar24.com/data/flights/fr6103\n\nHome around ~11:52 BST\n2 sectors today
+DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR6104 Newcastle → Gdańsk\nDep: 05:54 BST | Arr: 07:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr6104\n\nFR6103 Gdańsk → Newcastle\nDep: 08:28 BST | Arr: 10:52 BST\nTrack: https://www.flightradar24.com/data/flights/fr6103\n\nHome around ~11:52 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr6104
 END:VEVENT
 BEGIN:VEVENT
@@ -87,7 +87,7 @@ UID:20260706-flying@kudzi-roster
 DTSTART:20260706T095000Z
 DTEND:20260706T212500Z
 SUMMARY:✈️ FR2347/2346/21/20 — Palma + Dublin
-DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:55 BST | Arr: 15:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
+DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST | Arr: 15:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr2347
 END:VEVENT
 BEGIN:VEVENT
