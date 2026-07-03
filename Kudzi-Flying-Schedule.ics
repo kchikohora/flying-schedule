@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
+UID:20260627-flying@kudzi-roster
+DTSTART:20260627T034500Z
+DTEND:20260627T122100Z
+SUMMARY:✈️ FR7493/7494 — Alicante (Worked Day Off)
+DESCRIPTION:🌅 Up at ~04:00 BST\nLeave home: ~04:45 BST\nCheck-in: 05:45 BST\n\nFR7493 Newcastle → Alicante\nDep: 06:26 BST | Arr: 09:35 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 10:11 BST | Arr: 12:51 BST\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around ~13:51 BST\n💰 Worked day off\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr7493
+END:VEVENT
+BEGIN:VEVENT
 UID:20260703-flying@kudzi-roster
 DTSTART:20260703T031000Z
 DTEND:20260703T121800Z
