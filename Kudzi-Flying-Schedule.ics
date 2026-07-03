@@ -39,8 +39,8 @@ BEGIN:VEVENT
 UID:20260709-flying@kudzi-roster
 DTSTART:20260709T053000Z
 DTEND:20260709T165000Z
-SUMMARY:✈️ FR4601/4600 — CHQ
-DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → CHQ\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 CHQ → Newcastle\nDep: 12:50 BST | Arr: 17:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:50 BST\n2 sectors today
+SUMMARY:✈️ FR4601/4600 — Chania
+DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:50 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4601
 END:VEVENT
 BEGIN:VEVENT
@@ -145,8 +145,8 @@ BEGIN:VEVENT
 UID:20260731-flying@kudzi-roster
 DTSTART:20260731T105000Z
 DTEND:20260731T185500Z
-SUMMARY:✈️ FR4819/4820 — ZAD
-DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR4819 Newcastle → ZAD\nDep: 13:35 BST | Arr: 16:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 ZAD → Newcastle\nDep: 16:35 BST | Arr: 19:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~20:25 BST\n2 sectors today
+SUMMARY:✈️ FR4819/4820 — Zadar
+DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR4819 Newcastle → Zadar\nDep: 13:35 BST | Arr: 16:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 16:35 BST | Arr: 19:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~20:25 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
