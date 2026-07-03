@@ -123,9 +123,9 @@ BEGIN:VEVENT
 UID:20260728-flying@kudzi-roster
 DTSTART:20260728T102500Z
 DTEND:20260728T221000Z
-SUMMARY:✈️ FR454/455 — Fuerteventura
-DESCRIPTION:Leave home: ~11:25 BST\nCheck-in: 12:25 BST\n\nFR454 Newcastle → Fuerteventura\nDep: 13:10 BST | Arr: 17:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr454\n\nFR455 Fuerteventura → Newcastle\nDep: 18:15 BST | Arr: 22:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr455\n\nHome around ~23:40 BST\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr454
+SUMMARY:✈️ FR21/454 — Dublin
+DESCRIPTION:Leave home: ~11:25 BST\nCheck-in: 12:25 BST\n\nFR21 Newcastle → Dublin\nDep: 13:10 BST | Arr: 17:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR454 Newcastle → Fuerteventura\nDep: 18:15 BST | Arr: 22:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr454\n\nHome around ~23:40 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr21
 END:VEVENT
 BEGIN:VEVENT
 UID:20260729-office@kudzi-roster
@@ -146,7 +146,7 @@ UID:20260731-flying@kudzi-roster
 DTSTART:20260731T105000Z
 DTEND:20260731T185500Z
 SUMMARY:✈️ FR4819/4820 — Zadar
-DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR4819 Newcastle → Zadar\nDep: 13:35 BST | Arr: 16:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 16:35 BST | Arr: 19:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~20:25 BST\n2 sectors today
+DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR4819 Newcastle → Zadar\nDep: 13:35 BST | Arr: 16:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 16:35 BST | Arr: 19:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~20:55 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
