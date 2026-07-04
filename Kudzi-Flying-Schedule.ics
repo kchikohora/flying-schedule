@@ -150,6 +150,48 @@ DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR4819 Newcastle → 
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
+UID:20261004-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
 UID:20260627-flying@kudzi-roster
 DTSTART:20260627T034500Z
 DTEND:20260627T122100Z
@@ -845,41 +887,6 @@ BEGIN:VEVENT
 UID:20261001-pattern@kudzi-roster
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261005-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261006-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261007-office@kudzi-roster
-DTSTART:20261007T080000Z
-DTEND:20261007T160000Z
-SUMMARY:📋 Office Day — Newcastle (09:00–17:00 BST)
-DESCRIPTION:Newcastle\n09:00–17:00 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20261008-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261009-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
 SUMMARY:🌅 Early Shift
 DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
 END:VEVENT
