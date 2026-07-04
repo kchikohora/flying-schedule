@@ -192,6 +192,34 @@ SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
 DESCRIPTION:Reported by Kudzi — not yet on official roster
 END:VEVENT
 BEGIN:VEVENT
+UID:20261109-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:📌 Base Captain Meeting — Portugal (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:📌 Base Captain Meeting — Portugal (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:📌 Base Captain Meeting — Portugal (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-manual@kudzi-roster
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:📌 Base Captain Meeting — Portugal (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
+END:VEVENT
+BEGIN:VEVENT
 UID:20260627-flying@kudzi-roster
 DTSTART:20260627T034500Z
 DTEND:20260627T122100Z
@@ -1013,34 +1041,6 @@ BEGIN:VEVENT
 UID:20261106-pattern@kudzi-roster
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261107
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261109-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261109
-DTEND;VALUE=DATE:20261110
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261111
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261111-office@kudzi-roster
-DTSTART:20261111T090000Z
-DTEND:20261111T170000Z
-SUMMARY:📋 Office Day — Newcastle (09:00–17:00 GMT)
-DESCRIPTION:Newcastle\n09:00–17:00 GMT
-END:VEVENT
-BEGIN:VEVENT
-UID:20261112-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
 SUMMARY:🌅 Early Shift
 DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
 END:VEVENT
