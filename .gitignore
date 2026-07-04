@@ -27,3 +27,7 @@ roster.json
 
 # macOS cruft
 .DS_Store
+
+# Pipeline source code (local only) — the public repo should only ever
+# contain the .ics file the family subscribes to, nothing else
+*.py
