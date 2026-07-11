@@ -55,7 +55,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260721-flying@kudzi-roster
 DTSTART:20260721T124500Z
-DTEND:20260721T002500Z
+DTEND:20260722T002500Z
 SUMMARY:✈️ FR414/415 — Lanzarote
 DESCRIPTION:Leave home: ~13:45 BST\nCheck-in: 14:45 BST\n\nFR414 Newcastle → Lanzarote\nDep: 15:30 BST | Arr: 20:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 20:35 BST | Arr: 00:55 BST (22 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around ~01:55 BST (22 Jul)\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr414
