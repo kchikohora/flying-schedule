@@ -9,8 +9,8 @@ BEGIN:VEVENT
 UID:20260713-flying@kudzi-roster
 DTSTART:20260713T105000Z
 DTEND:20260713T200000Z
-SUMMARY:✈️ FR431/430 — Malaga
-DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR431 Newcastle → Malaga\nDep: 13:35 BST | Arr: 16:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr431\n\nFR430 Malaga → Newcastle\nDep: 17:20 BST | Arr: 20:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr430\n\nHome around ~21:30 BST\n2 sectors today
+SUMMARY:✈️ FR431/430 — Malaga (Worked Day Off)
+DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR431 Newcastle → Malaga\nDep: 13:35 BST | Arr: 16:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr431\n\nFR430 Malaga → Newcastle\nDep: 17:20 BST | Arr: 20:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr430\n\nHome around ~21:30 BST\n💰 Worked day off\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr431
 END:VEVENT
 BEGIN:VEVENT
