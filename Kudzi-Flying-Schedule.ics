@@ -6,12 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20260727-flying@kudzi-roster
+UID:20260727-hsby@kudzi-roster
 DTSTART:20260727T150000Z
-DTEND:20260727T234500Z
-SUMMARY:✈️ FR7493/7494 — Alicante
-DESCRIPTION:Leave home: ~16:00 BST\nCheck-in: 17:00 BST\n\nFR7493 Newcastle → Alicante\nDep: 17:45 BST | Arr: 20:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7493\n\nFR7494 Alicante → Newcastle\nDep: 21:15 BST | Arr: 00:15 BST (28 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr7494\n\nHome around ~01:15 BST (28 Jul)\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr7493
+DTEND:20260727T223000Z
+SUMMARY:🏠 Home Standby — on call until 23:30 BST
+DESCRIPTION:On call from home — standby until 23:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260728-flying@kudzi-roster
@@ -49,7 +48,7 @@ UID:20260803-flying@kudzi-roster
 DTSTART:20260803T095000Z
 DTEND:20260803T212500Z
 SUMMARY:✈️ FR2347/2346/21/20 — Palma + Dublin
-DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST | Arr: 15:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 22:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~23:25 BST\n4 sectors today
+DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST | Arr: 15:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr2347
 END:VEVENT
 BEGIN:VEVENT
