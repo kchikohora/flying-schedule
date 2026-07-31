@@ -6,36 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20260727-hsby@kudzi-roster
-DTSTART:20260727T150000Z
-DTEND:20260727T223000Z
-SUMMARY:🏠 Home Standby — on call until 23:30 BST
-DESCRIPTION:On call from home — standby until 23:30 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260728-flying@kudzi-roster
-DTSTART:20260728T124500Z
-DTEND:20260728T235500Z
-SUMMARY:✈️ FR414/415 — Lanzarote
-DESCRIPTION:Leave home: ~13:45 BST\nCheck-in: 14:45 BST\n\nFR414 Newcastle → Lanzarote\nDep: 15:30 BST | Arr: 20:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 20:35 BST | Arr: 00:55 BST (29 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around ~01:55 BST (29 Jul)\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr414
-END:VEVENT
-BEGIN:VEVENT
-UID:20260729-office@kudzi-roster
-DTSTART:20260729T113000Z
-DTEND:20260729T173000Z
-SUMMARY:📋 Office Day — Newcastle (12:30–18:30 BST)
-DESCRIPTION:Newcastle\n12:30–18:30 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260730-flying@kudzi-roster
-DTSTART:20260730T031500Z
-DTEND:20260730T103500Z
-SUMMARY:✈️ FR460/461 — Bergamo
-DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr460
-END:VEVENT
-BEGIN:VEVENT
 UID:20260731-flying@kudzi-roster
 DTSTART:20260731T105000Z
 DTEND:20260731T185500Z
@@ -114,11 +84,11 @@ URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 BEGIN:VEVENT
 UID:20260817-flying@kudzi-roster
-DTSTART:20260817T031000Z
-DTEND:20260817T111500Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
-DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/fr4819
+DTSTART:20260817T080500Z
+DTEND:20260818T084000Z
+SUMMARY:✈️ FR17/16/7051/7050 — Dublin + Brussels
+DESCRIPTION:Leave home: ~09:05 BST\nCheck-in: 10:05 BST\n\nFR17 Newcastle → Dublin\nDep: 10:05 BST | Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nFR7051 Newcastle → Brussels (Charleroi)\nDep: 06:00 BST | Arr: 07:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels (Charleroi) → Newcastle\nDep: 08:05 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nHome around ~10:40 BST (18 Aug)\n4 sectors today
+URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
 UID:20260818-flying@kudzi-roster
@@ -142,6 +112,73 @@ DTEND:20260820T165000Z
 SUMMARY:✈️ FR4601/4600 — Chania
 DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:20 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4601
+END:VEVENT
+BEGIN:VEVENT
+UID:20260824-flying@kudzi-roster
+DTSTART:20260824T095000Z
+DTEND:20260824T212500Z
+SUMMARY:✈️ FR2347/2346/21/20 — Palma + Dublin
+DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST | Arr: 15:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
+URL:https://www.flightradar24.com/data/flights/fr2347
+END:VEVENT
+BEGIN:VEVENT
+UID:20260825-hsby@kudzi-roster
+DTSTART:20260825T093000Z
+DTEND:20260825T203000Z
+SUMMARY:🏠 Home Standby — on call until 21:30 BST
+DESCRIPTION:On call from home — standby until 21:30 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260826-office@kudzi-roster
+DTSTART:20260826T083000Z
+DTEND:20260826T173000Z
+SUMMARY:📋 Office Day — Newcastle (09:30–18:30 BST)
+DESCRIPTION:Newcastle\n09:30–18:30 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260827-flying@kudzi-roster
+DTSTART:20260827T053000Z
+DTEND:20260827T165000Z
+SUMMARY:✈️ FR4601/4600 — Chania
+DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:20 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr4601
+END:VEVENT
+BEGIN:VEVENT
+UID:20260828-hsby@kudzi-roster
+DTSTART:20260828T045000Z
+DTEND:20260828T150000Z
+SUMMARY:🏠 Home Standby — on call until 16:00 BST
+DESCRIPTION:On call from home — standby until 16:00 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260727-hsby@kudzi-roster
+DTSTART:20260727T150000Z
+DTEND:20260727T223000Z
+SUMMARY:🏠 Home Standby — on call until 23:30 BST
+DESCRIPTION:On call from home — standby until 23:30 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260728-flying@kudzi-roster
+DTSTART:20260728T124500Z
+DTEND:20260728T235500Z
+SUMMARY:✈️ FR414/415 — Lanzarote
+DESCRIPTION:Leave home: ~13:45 BST\nCheck-in: 14:45 BST\n\nFR414 Newcastle → Lanzarote\nDep: 15:30 BST | Arr: 20:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 20:35 BST | Arr: 00:55 BST (29 Jul)\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around ~01:55 BST (29 Jul)\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr414
+END:VEVENT
+BEGIN:VEVENT
+UID:20260729-office@kudzi-roster
+DTSTART:20260729T113000Z
+DTEND:20260729T173000Z
+SUMMARY:📋 Office Day — Newcastle (12:30–18:30 BST)
+DESCRIPTION:Newcastle\n12:30–18:30 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260730-flying@kudzi-roster
+DTSTART:20260730T031500Z
+DTEND:20260730T103500Z
+SUMMARY:✈️ FR460/461 — Bergamo
+DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr460
 END:VEVENT
 BEGIN:VEVENT
 UID:20260717-flying@kudzi-roster
@@ -787,41 +824,6 @@ DTEND:20260618T103500Z
 SUMMARY:✈️ FR460/461 — Bergamo (Milan)
 DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr460
-END:VEVENT
-BEGIN:VEVENT
-UID:20260824-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20260825-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20260826-office@kudzi-roster
-DTSTART:20260826T080000Z
-DTEND:20260826T160000Z
-SUMMARY:📋 Office Day — Newcastle (09:00–17:00 BST)
-DESCRIPTION:Newcastle\n09:00–17:00 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260827-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
-END:VEVENT
-BEGIN:VEVENT
-UID:20260828-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
 END:VEVENT
 BEGIN:VEVENT
 UID:20260831-pattern@kudzi-roster
