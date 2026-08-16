@@ -6,37 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20260810-flying@kudzi-roster
-DTSTART:20260810T031000Z
-DTEND:20260810T111500Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
-DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/fr4819
-END:VEVENT
-BEGIN:VEVENT
-UID:20260811-flying@kudzi-roster
-DTSTART:20260811T035000Z
-DTEND:20260811T140000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR6110/6109 — MLA
-DESCRIPTION:🌅 Up at ~04:05 BST\nLeave home: ~04:50 BST\nCheck-in: 05:50 BST\n\nFR6110 Newcastle → MLA\nDep: 06:35 BST | Arr: 10:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr6110\n\nFR6109 MLA → Newcastle\nDep: 10:40 BST | Arr: 14:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr6109\n\nHome around ~15:30 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/fr6110
-END:VEVENT
-BEGIN:VEVENT
-UID:20260812-office@kudzi-roster
-DTSTART:20260812T083000Z
-DTEND:20260812T153000Z
-SUMMARY:📋 Office Day — Newcastle (09:30–16:30 BST)
-DESCRIPTION:Newcastle\n09:30–16:30 BST
-END:VEVENT
-BEGIN:VEVENT
-UID:20260813-flying@kudzi-roster
-DTSTART:20260813T031500Z
-DTEND:20260813T103500Z
-SUMMARY:✈️ FR460/461 — Bergamo
-DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr460
-END:VEVENT
-BEGIN:VEVENT
 UID:20260814-flying@kudzi-roster
 DTSTART:20260814T032500Z
 DTEND:20260814T123500Z
@@ -46,19 +15,19 @@ URL:https://www.flightradar24.com/data/flights/fr7876
 END:VEVENT
 BEGIN:VEVENT
 UID:20260817-flying@kudzi-roster
-DTSTART:20260817T031500Z
+DTSTART:20260817T080500Z
 DTEND:20260817T121500Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR7051/7050/17/16 — Brussels + Dublin
-DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR7051 Newcastle → Brussels (Charleroi)\nDep: 06:00 BST | Arr: 07:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels (Charleroi) → Newcastle\nDep: 08:05 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nFR17 Newcastle → Dublin\nDep: 10:05 BST | Arr: 11:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\n4 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/fr7051
+SUMMARY:✈️ FR17/16/7051/7050 — Dublin + Brussels
+DESCRIPTION:Leave home: ~09:05 BST\nCheck-in: 10:05 BST\n\nFR17 Newcastle → Dublin\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 11:10 BST | Arr: 13:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nFR7051 Newcastle → Brussels (Charleroi)\nDep: 06:00 BST | Arr: 07:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7051\n\nFR7050 Brussels (Charleroi) → Newcastle\nDep: 08:05 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr7050\n\nHome around ~10:40 BST (18 Aug)\n4 sectors today
+URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
 UID:20260818-flying@kudzi-roster
-DTSTART:20260818T102500Z
-DTEND:20260818T221000Z
-SUMMARY:✈️ FR454/455 — Fuerteventura
-DESCRIPTION:Leave home: ~11:25 BST\nCheck-in: 12:25 BST\n\nFR454 Newcastle → Fuerteventura\nDep: 13:10 BST | Arr: 17:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr454\n\nFR455 Fuerteventura → Newcastle\nDep: 18:15 BST | Arr: 22:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr455\n\nHome around ~23:40 BST\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr454
+DTSTART:20260818T035000Z
+DTEND:20260818T140000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR6110/6109 — MLA
+DESCRIPTION:🌅 Up at ~04:05 BST\nLeave home: ~04:50 BST\nCheck-in: 05:50 BST\n\nFR6110 Newcastle → MLA\nDep: 06:35 BST | Arr: 10:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr6110\n\nFR6109 MLA → Newcastle\nDep: 10:40 BST | Arr: 14:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr6109\n\nHome around ~15:30 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+URL:https://www.flightradar24.com/data/flights/fr6110
 END:VEVENT
 BEGIN:VEVENT
 UID:20260819-office@kudzi-roster
@@ -78,24 +47,25 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260824-flying@kudzi-roster
 DTSTART:20260824T031000Z
-DTEND:20260824T111500Z
+DTEND:20260824T133000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
 DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
-UID:20260825-hsby@kudzi-roster
-DTSTART:20260825T093000Z
-DTEND:20260825T203000Z
-SUMMARY:🏠 Home Standby — on call until 21:30 BST
-DESCRIPTION:On call from home — standby until 21:30 BST
+UID:20260825-flying@kudzi-roster
+DTSTART:20260825T124500Z
+DTEND:20260826T002500Z
+SUMMARY:✈️ FR414/415 — Lanzarote
+DESCRIPTION:Leave home: ~13:45 BST\nCheck-in: 14:45 BST\n\nFR414 Newcastle → Lanzarote\nDep: 15:30 BST | Arr: 20:00 BST\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 20:35 BST | Arr: 00:55 BST (26 Aug)\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around ~01:55 BST (26 Aug)\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr414
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-office@kudzi-roster
-DTSTART:20260826T083000Z
+DTSTART:20260826T113000Z
 DTEND:20260826T173000Z
-SUMMARY:📋 Office Day — Newcastle (09:30–18:30 BST)
-DESCRIPTION:Newcastle\n09:30–18:30 BST
+SUMMARY:📋 Office Day — Newcastle (12:30–18:30 BST)
+DESCRIPTION:Newcastle\n12:30–18:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260827-flying@kudzi-roster
@@ -142,6 +112,72 @@ DTEND:20260903T134500Z
 SUMMARY:✈️ FR6110/6109 — MLA
 DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR6110 Newcastle → MLA\nDep: 06:00 BST | Arr: 09:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr6110\n\nFR6109 MLA → Newcastle\nDep: 10:25 BST | Arr: 14:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr6109\n\nHome around ~15:15 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr6110
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-al@kudzi-roster
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-al@kudzi-roster
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-al@kudzi-roster
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-al@kudzi-roster
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260911-al@kudzi-roster
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260810-flying@kudzi-roster
+DTSTART:20260810T031000Z
+DTEND:20260810T111500Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
+DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+URL:https://www.flightradar24.com/data/flights/fr4819
+END:VEVENT
+BEGIN:VEVENT
+UID:20260811-flying@kudzi-roster
+DTSTART:20260811T035000Z
+DTEND:20260811T140000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR6110/6109 — MLA
+DESCRIPTION:🌅 Up at ~04:05 BST\nLeave home: ~04:50 BST\nCheck-in: 05:50 BST\n\nFR6110 Newcastle → MLA\nDep: 06:35 BST | Arr: 10:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr6110\n\nFR6109 MLA → Newcastle\nDep: 10:40 BST | Arr: 14:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr6109\n\nHome around ~15:30 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+URL:https://www.flightradar24.com/data/flights/fr6110
+END:VEVENT
+BEGIN:VEVENT
+UID:20260812-office@kudzi-roster
+DTSTART:20260812T083000Z
+DTEND:20260812T153000Z
+SUMMARY:📋 Office Day — Newcastle (09:30–16:30 BST)
+DESCRIPTION:Newcastle\n09:30–16:30 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20260813-flying@kudzi-roster
+DTSTART:20260813T031500Z
+DTEND:20260813T103500Z
+SUMMARY:✈️ FR460/461 — Bergamo
+DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr460
 END:VEVENT
 BEGIN:VEVENT
 UID:20260731-flying@kudzi-roster
@@ -312,13 +348,6 @@ BEGIN:VEVENT
 UID:20260223-al@kudzi-roster
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20260907-al@kudzi-roster
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
 SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
 END:VEVENT
