@@ -6,6 +6,27 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
+UID:20261229-al@kudzi-roster
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-al@kudzi-roster
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231-al@kudzi-roster
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
 UID:20260824-flying@kudzi-roster
 DTSTART:20260824T031000Z
 DTEND:20260824T133000Z
@@ -46,8 +67,8 @@ BEGIN:VEVENT
 UID:20260830-flying@kudzi-roster
 DTSTART:20260830T085000Z
 DTEND:20260830T113500Z
-SUMMARY:✈️ DH FR17 — Dublin
-DESCRIPTION:Leave home: ~09:50 BST\nCheck-in: 10:50 BST\n\nDH FR17 Newcastle → Dublin\nDep: 11:10 BST | Arr: 12:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\n1 sectors today
+SUMMARY:✈️ Travelling to Dublin — as a passenger
+DESCRIPTION:Leave home: ~09:50 BST\nCheck-in: 10:50 BST\n\nFR17 Newcastle → Dublin\nDep: 11:10 BST | Arr: 12:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it
 URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
@@ -82,8 +103,8 @@ BEGIN:VEVENT
 UID:20260904-flying@kudzi-roster
 DTSTART:20260904T091500Z
 DTEND:20260904T120500Z
-SUMMARY:✈️ DH FR16 — N/A
-DESCRIPTION:Leave home: ~10:15 BST\nCheck-in: 11:15 BST\n\nDH FR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\n1 sectors today
+SUMMARY:✈️ Travelling home to Newcastle — as a passenger
+DESCRIPTION:Leave home: ~10:15 BST\nCheck-in: 11:15 BST\n\nFR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\nKudzi is a passenger on this flight, not working it
 URL:https://www.flightradar24.com/data/flights/fr16
 END:VEVENT
 BEGIN:VEVENT
