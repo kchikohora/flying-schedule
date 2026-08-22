@@ -17,8 +17,8 @@ BEGIN:VEVENT
 UID:20260825-office@kudzi-roster
 DTSTART:20260825T073000Z
 DTEND:20260825T163000Z
-SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
-DESCRIPTION:Newcastle\n08:30–17:30 BST
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Newcastle (08:30–17:30 BST)
+DESCRIPTION:Newcastle\n08:30–17:30 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-office@kudzi-roster
@@ -47,22 +47,22 @@ UID:20260830-flying@kudzi-roster
 DTSTART:20260830T085000Z
 DTEND:20260830T113500Z
 SUMMARY:✈️ DH FR17 — Dublin
-DESCRIPTION:Leave home: ~09:50 BST\nCheck-in: 10:50 BST\n\nDH FR17 Newcastle → Dublin\nDep: 11:10 BST | Arr: 12:15 BST\nTrack: https://www.flightradar24.com/data/flights/dh fr17\n\nHome around ~13:15 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/dh fr17
+DESCRIPTION:Leave home: ~09:50 BST\nCheck-in: 10:50 BST\n\nDH FR17 Newcastle → Dublin\nDep: 11:10 BST | Arr: 12:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\n1 sectors today
+URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
 UID:20260831-office@kudzi-roster
 DTSTART:20260831T060000Z
 DTEND:20260831T180000Z
-SUMMARY:📋 Office Day — Dublin (07:00–19:00 BST)
-DESCRIPTION:Dublin\n07:00–19:00 BST
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Dublin (07:00–19:00 BST)
+DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260901-office@kudzi-roster
 DTSTART:20260901T060000Z
 DTEND:20260901T180000Z
-SUMMARY:📋 Office Day — Dublin (07:00–19:00 BST)
-DESCRIPTION:Dublin\n07:00–19:00 BST
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Dublin (07:00–19:00 BST)
+DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260902-office@kudzi-roster
@@ -83,8 +83,8 @@ UID:20260904-flying@kudzi-roster
 DTSTART:20260904T091500Z
 DTEND:20260904T120500Z
 SUMMARY:✈️ DH FR16 — N/A
-DESCRIPTION:Leave home: ~10:15 BST\nCheck-in: 11:15 BST\n\nDH FR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/dh fr16\n\nHome around ~13:45 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/dh fr16
+DESCRIPTION:Leave home: ~10:15 BST\nCheck-in: 11:15 BST\n\nDH FR16 Dublin → Newcastle\nDep: 11:35 BST | Arr: 12:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~13:45 BST\n1 sectors today
+URL:https://www.flightradar24.com/data/flights/fr16
 END:VEVENT
 BEGIN:VEVENT
 UID:20260907-al@kudzi-roster
@@ -122,20 +122,18 @@ SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
-UID:20260914-flying@kudzi-roster
-DTSTART:20260914T054000Z
+UID:20260914-training@kudzi-roster
+DTSTART:20260914T064000Z
 DTEND:20260914T173000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ GT — EMT
-DESCRIPTION:Leave home: ~06:40 BST\nCheck-in: 07:40 BST\n\nGT Newcastle → EMT\nDep: 07:40 BST | Arr: 11:00 BST\nTrack: https://www.flightradar24.com/data/flights/gt\n\nHome around ~12:00 BST\n1 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/gt
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🎓 Proficiency Check — East Midlands (07:40–18:30 BST)
+DESCRIPTION:Operator Proficiency Check (OPC)\nEast Midlands (Training Centre)\n07:40–18:30 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
-UID:20260915-flying@kudzi-roster
-DTSTART:20260915T090000Z
+UID:20260915-duty@kudzi-roster
+DTSTART:20260915T100000Z
 DTEND:20260915T132000Z
-SUMMARY:✈️ GT — N/A
-DESCRIPTION:Leave home: ~10:00 BST\nCheck-in: 11:00 BST\n\nGT EMT → Newcastle\nDep: 11:00 BST | Arr: 14:20 BST\nTrack: https://www.flightradar24.com/data/flights/gt\n\nHome around ~15:20 BST\n1 sectors today
-URL:https://www.flightradar24.com/data/flights/gt
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📌 GT — East Midlands (11:00–14:20 BST)
+DESCRIPTION:Roster duty code: GT\nEast Midlands (Training Centre)\n11:00–14:20 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260916-office@kudzi-roster
