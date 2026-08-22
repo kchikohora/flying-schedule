@@ -6,40 +6,18 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20261229-al@kudzi-roster
-DTSTART;VALUE=DATE:20261229
-DTEND;VALUE=DATE:20261230
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20261230-al@kudzi-roster
-DTSTART;VALUE=DATE:20261230
-DTEND;VALUE=DATE:20261231
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20261231-al@kudzi-roster
-DTSTART;VALUE=DATE:20261231
-DTEND;VALUE=DATE:20270101
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20260824-flying@kudzi-roster
-DTSTART:20260824T031000Z
-DTEND:20260824T133000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
-DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/fr4819
+UID:20260824-manual@kudzi-roster
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:📌 Iris drop-off needed, Kudzi away — flight FR4819/4820 — Zadar (unconfirmed)
+DESCRIPTION:Reported by Kudzi — not yet on official roster
 END:VEVENT
 BEGIN:VEVENT
 UID:20260825-office@kudzi-roster
 DTSTART:20260825T073000Z
 DTEND:20260825T163000Z
-SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
-DESCRIPTION:Newcastle\n08:30–17:30 BST
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Newcastle (08:30–17:30 BST)
+DESCRIPTION:Newcastle\n08:30–17:30 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-office@kudzi-roster
@@ -170,6 +148,27 @@ DTEND:20260917T165000Z
 SUMMARY:✈️ FR4601/4600 — Chania
 DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:20 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4601
+END:VEVENT
+BEGIN:VEVENT
+UID:20261229-al@kudzi-roster
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20261230-al@kudzi-roster
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20261231-al@kudzi-roster
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
 UID:20260814-flying@kudzi-roster
