@@ -1,33 +1,16 @@
-# Secrets — never commit
-.roster_config
-.env
+# The public flying-schedule repo must contain ONLY the calendar file the family
+# subscribes to. Rather than listing what to exclude — which silently fails the
+# moment a new kind of file appears — everything is ignored by default and the
+# two intended files are whitelisted.
+#
+# This means a stray `git add -A` cannot publish anything new: roster
+# screenshots, roster PDFs, email_trigger.log, roster.json, the pipeline
+# scripts, .env or .roster_config. To add a genuinely new file to the public
+# repo you must whitelist it here first, which is the point.
+*
+!.gitignore
+!Kudzi-Flying-Schedule.ics
 
-# Source roster (private, large) — not needed in the calendar repo
-*.pdf
-
-# Old browser-push helper (superseded by git)
-github_push.html
-
-# Packaged skill (kept locally, not in repo)
-*.skill
-
-# Old-named ICS (superseded by Kudzi-Flying-Schedule.ics)
-Kudzi's Flying Schedule.ics
-
-# Personal docs (local only)
-CLAUDE.md
-PROGRESS.md
-PROMPTS-claude-code.md
-SETUP-claude-code.md
-
-# Intermediate pipeline files (local only)
-roster.json
-.last_roster_stats
-.claude/
-
-# macOS cruft
-.DS_Store
-
-# Pipeline source code (local only) — the public repo should only ever
-# contain the .ics file the family subscribes to, nothing else
-*.py
+# Previously listed explicitly, kept here as a record of what must never be
+# published: .roster_config, .env, *.pdf, *.py, roster.json, *.log,
+# roster_screenshot.*, CLAUDE.md, PROGRESS.md, .claude/, .DS_Store
