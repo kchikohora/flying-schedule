@@ -6,18 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20260824-manual@kudzi-roster
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📌 Iris drop-off needed, Kudzi away — flight FR4819/4820 — Zadar (unconfirmed)
-DESCRIPTION:Reported by Kudzi — not yet on official roster
+UID:20260824-flying@kudzi-roster
+DTSTART:20260824T031000Z
+DTEND:20260824T133000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
+DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
 UID:20260825-office@kudzi-roster
 DTSTART:20260825T073000Z
 DTEND:20260825T163000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Newcastle (08:30–17:30 BST)
-DESCRIPTION:Newcastle\n08:30–17:30 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
+DESCRIPTION:Newcastle\n08:30–17:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-office@kudzi-roster
