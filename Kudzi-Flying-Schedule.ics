@@ -10,15 +10,15 @@ UID:20260824-flying@kudzi-roster
 DTSTART:20260824T031000Z
 DTEND:20260824T133000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
-DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
 UID:20260825-office@kudzi-roster
 DTSTART:20260825T073000Z
 DTEND:20260825T163000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Newcastle (08:30–17:30 BST)
-DESCRIPTION:Newcastle\n08:30–17:30 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
+DESCRIPTION:Newcastle\n08:30–17:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-office@kudzi-roster
@@ -55,14 +55,14 @@ UID:20260831-office@kudzi-roster
 DTSTART:20260831T060000Z
 DTEND:20260831T180000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Dublin (07:00–19:00 BST)
-DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260901-office@kudzi-roster
 DTSTART:20260901T060000Z
 DTEND:20260901T180000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Dublin (07:00–19:00 BST)
-DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260902-office@kudzi-roster
@@ -126,14 +126,14 @@ UID:20260914-training@kudzi-roster
 DTSTART:20260914T064000Z
 DTEND:20260914T173000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🎓 Proficiency Check — East Midlands (07:40–18:30 BST)
-DESCRIPTION:Operator Proficiency Check (OPC)\nEast Midlands (Training Centre)\n07:40–18:30 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+DESCRIPTION:Operator Proficiency Check (OPC)\nEast Midlands (Training Centre)\n07:40–18:30 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
-UID:20260915-duty@kudzi-roster
+UID:20260915-transfer@kudzi-roster
 DTSTART:20260915T100000Z
 DTEND:20260915T132000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📌 GT — East Midlands (11:00–14:20 BST)
-DESCRIPTION:Roster duty code: GT\nEast Midlands (Training Centre)\n11:00–14:20 BST\n⚠️ Iris nursery drop-off needed (~08:30) — Kudzi not available
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🚗 Ground Transfer — East Midlands → Newcastle (11:00–14:20 BST)
+DESCRIPTION:Ground transfer (GT)\nEast Midlands (Training Centre) → Newcastle\n11:00–14:20 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20260916-office@kudzi-roster
