@@ -10,37 +10,38 @@ UID:20260824-flying@kudzi-roster
 DTSTART:20260824T031000Z
 DTEND:20260824T133000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ FR4819/4820 — Zadar
-DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:55 BST | Arr: 08:30 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:55 BST | Arr: 11:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:45 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+DESCRIPTION:🌅 Up at ~03:25 BST\nLeave home: ~04:10 BST\nCheck-in: 05:10 BST\n\nFR4819 Newcastle → Zadar\nDep: 05:53 BST | Arr: 08:19 BST\nTrack: https://www.flightradar24.com/data/flights/fr4819\n\nFR4820 Zadar → Newcastle\nDep: 08:54 BST | Arr: 11:36 BST\nTrack: https://www.flightradar24.com/data/flights/fr4820\n\nHome around ~12:36 BST\n2 sectors today\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 URL:https://www.flightradar24.com/data/flights/fr4819
 END:VEVENT
 BEGIN:VEVENT
-UID:20260825-office@kudzi-roster
-DTSTART:20260825T073000Z
-DTEND:20260825T163000Z
-SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
-DESCRIPTION:Newcastle\n08:30–17:30 BST
+UID:20260825-flying@kudzi-roster
+DTSTART:20260825T102500Z
+DTEND:20260825T221000Z
+SUMMARY:✈️ FR454/455 — Fuerteventura
+DESCRIPTION:Leave home: ~11:25 BST\nCheck-in: 12:25 BST\n\nFR454 Newcastle → Fuerteventura\nDep: 13:10 BST | Arr: 17:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr454\n\nFR455 Fuerteventura → Newcastle\nDep: 18:15 BST | Arr: 22:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr455\n\nHome around ~23:40 BST\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr454
 END:VEVENT
 BEGIN:VEVENT
 UID:20260826-office@kudzi-roster
-DTSTART:20260826T073000Z
+DTSTART:20260826T083000Z
 DTEND:20260826T163000Z
-SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
-DESCRIPTION:Newcastle\n08:30–17:30 BST
+SUMMARY:📋 Office Day — Newcastle (09:30–17:30 BST)
+DESCRIPTION:Newcastle\n09:30–17:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260827-flying@kudzi-roster
 DTSTART:20260827T053000Z
 DTEND:20260827T165000Z
 SUMMARY:✈️ FR4601/4600 — Chania
-DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:20 BST\n2 sectors today
+DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 17:20 BST | Arr: 17:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:50 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4601
 END:VEVENT
 BEGIN:VEVENT
-UID:20260828-hsby@kudzi-roster
-DTSTART:20260828T045000Z
-DTEND:20260828T150000Z
-SUMMARY:🏠 Home Standby — on call until 16:00 BST
-DESCRIPTION:On call from home — standby until 16:00 BST
+UID:20260828-office@kudzi-roster
+DTSTART:20260828T073000Z
+DTEND:20260828T163000Z
+SUMMARY:📋 Office Day — Newcastle (08:30–17:30 BST)
+DESCRIPTION:Newcastle\n08:30–17:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260830-flying@kudzi-roster
@@ -122,11 +123,18 @@ SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
-UID:20260914-training@kudzi-roster
+UID:20260914-transfer@kudzi-roster
 DTSTART:20260914T064000Z
+DTEND:20260914T100000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🚗 Ground Transfer — East Midlands (07:40–11:00 BST)
+DESCRIPTION:Ground transfer (GT)\nEast Midlands\n07:40–11:00 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914-duty@kudzi-roster
+DTSTART:20260914T100000Z
 DTEND:20260914T173000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🎓 Proficiency Check — East Midlands (07:40–18:30 BST)
-DESCRIPTION:Operator Proficiency Check (OPC)\nEast Midlands (Training Centre)\n07:40–18:30 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+SUMMARY:📌 RST 3 OPC — East Midlands (11:00–18:30 BST)
+DESCRIPTION:Roster duty code: RST 3 OPC\nEast Midlands (Training Centre)\n11:00–18:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260915-transfer@kudzi-roster
@@ -147,7 +155,7 @@ UID:20260917-flying@kudzi-roster
 DTSTART:20260917T053000Z
 DTEND:20260917T165000Z
 SUMMARY:✈️ FR4601/4600 — Chania
-DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:20 BST\n2 sectors today
+DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 17:20 BST | Arr: 17:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:50 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4601
 END:VEVENT
 BEGIN:VEVENT
