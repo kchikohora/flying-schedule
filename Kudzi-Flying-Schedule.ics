@@ -59,9 +59,16 @@ END:VEVENT
 BEGIN:VEVENT
 UID:20260914-transfer@kudzi-roster
 DTSTART:20260914T064000Z
+DTEND:20260914T100000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🚗 Ground Transfer — East Midlands (07:40–11:00 BST)
+DESCRIPTION:Ground transfer (GT)\nEast Midlands\n07:40–11:00 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+END:VEVENT
+BEGIN:VEVENT
+UID:20260914-training@kudzi-roster
+DTSTART:20260914T100000Z
 DTEND:20260914T173000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 🚗 Ground Transfer — East Midlands (07:40–18:30 BST)
-DESCRIPTION:Ground transfer (GT)\nEast Midlands\n07:40–18:30 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+SUMMARY:🎓 Proficiency Check — East Midlands (11:00–18:30 BST)
+DESCRIPTION:Operator Proficiency Check (OPC)\nEast Midlands (Training Centre)\n11:00–18:30 BST
 END:VEVENT
 BEGIN:VEVENT
 UID:20260915-transfer@kudzi-roster
