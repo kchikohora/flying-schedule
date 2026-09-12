@@ -6,55 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20260904-flying@kudzi-roster
-DTSTART:20260904T091500Z
-DTEND:20260904T122300Z
-SUMMARY:✈️ Travelling home to Newcastle — as a passenger
-DESCRIPTION:Leave home: ~10:15 BST\nCheck-in: 11:15 BST\n\nFR16 Dublin → Newcastle\nDep: 11:59 BST | Arr: 13:03 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~14:03 BST\nKudzi is a passenger on this flight, not working it
-URL:https://www.flightradar24.com/data/flights/fr16
-END:VEVENT
-BEGIN:VEVENT
-UID:20260907-al@kudzi-roster
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20260908-al@kudzi-roster
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20260909-al@kudzi-roster
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20260910-al@kudzi-roster
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
 UID:20260911-al@kudzi-roster
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20260913-flying@kudzi-roster
-DTSTART:20260913T150500Z
-DTEND:20260913T234000Z
-SUMMARY:✈️ FR4447/4446 — Ibiza (Worked Day Off)
-DESCRIPTION:Leave home: ~16:05 BST\nCheck-in: 17:05 BST\n\nFR4447 Newcastle → Ibiza\nDep: 17:50 BST | Arr: 20:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr4447\n\nFR4446 Ibiza → Newcastle\nDep: 21:20 BST | Arr: 00:10 BST (14 Sep)\nTrack: https://www.flightradar24.com/data/flights/fr4446\n\nHome around ~01:10 BST (14 Sep)\n💰 Worked day off\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr4447
 END:VEVENT
 BEGIN:VEVENT
 UID:20260914-transfer@kudzi-roster
@@ -161,6 +117,78 @@ DTEND:20261004T113500Z
 SUMMARY:✈️ Travelling to Dublin — as a passenger
 DESCRIPTION:Leave home: ~09:50 BST\nCheck-in: 10:50 BST\n\nFR17 Newcastle → Dublin\nDep: 11:10 BST | Arr: 12:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it
 URL:https://www.flightradar24.com/data/flights/fr17
+END:VEVENT
+BEGIN:VEVENT
+UID:20261005-office@kudzi-roster
+DTSTART:20261005T060000Z
+DTEND:20261005T180000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Dublin (07:00–19:00 BST)
+DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+END:VEVENT
+BEGIN:VEVENT
+UID:20261006-office@kudzi-roster
+DTSTART:20261006T060000Z
+DTEND:20261006T180000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Dublin (07:00–19:00 BST)
+DESCRIPTION:Dublin\n07:00–19:00 BST\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+END:VEVENT
+BEGIN:VEVENT
+UID:20261007-office@kudzi-roster
+DTSTART:20261007T060000Z
+DTEND:20261007T180000Z
+SUMMARY:📋 Office Day — Dublin (07:00–19:00 BST)
+DESCRIPTION:Dublin\n07:00–19:00 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20261008-office@kudzi-roster
+DTSTART:20261008T060000Z
+DTEND:20261008T180000Z
+SUMMARY:📋 Office Day — Dublin (07:00–19:00 BST)
+DESCRIPTION:Dublin\n07:00–19:00 BST
+END:VEVENT
+BEGIN:VEVENT
+UID:20261009-flying@kudzi-roster
+DTSTART:20261009T094000Z
+DTEND:20261009T123000Z
+SUMMARY:✈️ Travelling home to Newcastle — as a passenger
+DESCRIPTION:Leave home: ~10:40 BST\nCheck-in: 11:40 BST\n\nFR16 Dublin → Newcastle\nDep: 12:00 BST | Arr: 13:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~14:10 BST\nKudzi is a passenger on this flight, not working it
+URL:https://www.flightradar24.com/data/flights/fr16
+END:VEVENT
+BEGIN:VEVENT
+UID:20260904-flying@kudzi-roster
+DTSTART:20260904T091500Z
+DTEND:20260904T122300Z
+SUMMARY:✈️ Travelling home to Newcastle — as a passenger
+DESCRIPTION:Leave home: ~10:15 BST\nCheck-in: 11:15 BST\n\nFR16 Dublin → Newcastle\nDep: 11:59 BST | Arr: 13:03 BST\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nHome around ~14:03 BST\nKudzi is a passenger on this flight, not working it
+URL:https://www.flightradar24.com/data/flights/fr16
+END:VEVENT
+BEGIN:VEVENT
+UID:20260907-al@kudzi-roster
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260908-al@kudzi-roster
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260909-al@kudzi-roster
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20260910-al@kudzi-roster
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
 UID:20260828-office@kudzi-roster
@@ -564,41 +592,6 @@ DTEND:20260709T165000Z
 SUMMARY:✈️ FR4601/4600 — Chania
 DESCRIPTION:Leave home: ~06:30 BST\nCheck-in: 07:30 BST\n\nFR4601 Newcastle → Chania\nDep: 08:15 BST | Arr: 12:25 BST\nTrack: https://www.flightradar24.com/data/flights/fr4601\n\nFR4600 Chania → Newcastle\nDep: 12:50 BST | Arr: 17:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr4600\n\nHome around ~18:50 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr4601
-END:VEVENT
-BEGIN:VEVENT
-UID:20261005-manual@kudzi-roster
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
-DESCRIPTION:Reported by Kudzi — not yet on official roster
-END:VEVENT
-BEGIN:VEVENT
-UID:20261006-manual@kudzi-roster
-DTSTART;VALUE=DATE:20261006
-DTEND;VALUE=DATE:20261007
-SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
-DESCRIPTION:Reported by Kudzi — not yet on official roster
-END:VEVENT
-BEGIN:VEVENT
-UID:20261007-manual@kudzi-roster
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
-DESCRIPTION:Reported by Kudzi — not yet on official roster
-END:VEVENT
-BEGIN:VEVENT
-UID:20261008-manual@kudzi-roster
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
-DESCRIPTION:Reported by Kudzi — not yet on official roster
-END:VEVENT
-BEGIN:VEVENT
-UID:20261009-manual@kudzi-roster
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:📌 Duty Pilot — Dublin (unconfirmed)
-DESCRIPTION:Reported by Kudzi — not yet on official roster
 END:VEVENT
 BEGIN:VEVENT
 UID:20261109-manual@kudzi-roster
