@@ -7,10 +7,10 @@ X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
 UID:20260921-flying@kudzi-roster
-DTSTART:20260921T095000Z
-DTEND:20260921T212500Z
+DTSTART:20260921T105000Z
+DTEND:20260921T221500Z
 SUMMARY:✈️ FR2347/2346/21/20 — Palma + Dublin
-DESCRIPTION:Leave home: ~10:50 BST\nCheck-in: 11:50 BST\n\nFR2347 Newcastle → Palma\nDep: 12:35 BST | Arr: 15:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 15:55 BST | Arr: 18:50 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 19:15 BST | Arr: 20:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 20:45 BST | Arr: 21:55 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~22:55 BST\n4 sectors today
+DESCRIPTION:Leave home: ~11:50 BST\nCheck-in: 12:50 BST\n\nFR2347 Newcastle → Palma\nDep: 13:35 BST | Arr: 16:20 BST\nTrack: https://www.flightradar24.com/data/flights/fr2347\n\nFR2346 Palma → Newcastle\nDep: 16:45 BST | Arr: 19:40 BST\nTrack: https://www.flightradar24.com/data/flights/fr2346\n\nFR21 Newcastle → Dublin\nDep: 20:05 BST | Arr: 21:10 BST\nTrack: https://www.flightradar24.com/data/flights/fr21\n\nFR20 Dublin → Newcastle\nDep: 21:35 BST | Arr: 22:45 BST\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~23:45 BST\n4 sectors today
 URL:https://www.flightradar24.com/data/flights/fr2347
 END:VEVENT
 BEGIN:VEVENT
