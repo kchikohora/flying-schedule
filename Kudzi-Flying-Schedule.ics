@@ -114,37 +114,37 @@ DESCRIPTION:Leave home: ~05:40 GMT\nCheck-in: 06:40 GMT\n\nFR17 Newcastle → Du
 URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
-UID:20261109-flying@kudzi-roster
+UID:20261109-flying-2@kudzi-roster
 DTSTART:20261109T100500Z
 DTEND:20261109T141000Z
-SUMMARY:✈️ Travelling to OPO — as a passenger
-DESCRIPTION:Leave home: ~10:05 GMT\nCheck-in: 11:05 GMT\n\nFR7078 Dublin → OPO\nDep: 11:25 GMT | Arr: 13:50 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7078\n\n🌙 Night stop in OPO\nKudzi is a passenger on this flight, not working it
+SUMMARY:✈️ Travelling to Porto — as a passenger
+DESCRIPTION:Leave home: ~10:05 GMT\nCheck-in: 11:05 GMT\n\nFR7078 Dublin → Porto\nDep: 11:25 GMT | Arr: 13:50 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7078\n\n🌙 Night stop in Porto\nKudzi is a passenger on this flight, not working it
 URL:https://www.flightradar24.com/data/flights/fr7078
 END:VEVENT
 BEGIN:VEVENT
 UID:20261110-office@kudzi-roster
 DTSTART:20261110T083000Z
 DTEND:20261110T173000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — OPO (08:30–17:30 GMT)
-DESCRIPTION:OPO\n08:30–17:30 GMT\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Porto (08:30–17:30 GMT)
+DESCRIPTION:Porto\n08:30–17:30 GMT\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 END:VEVENT
 BEGIN:VEVENT
 UID:20261111-office@kudzi-roster
 DTSTART:20261111T083000Z
 DTEND:20261111T173000Z
-SUMMARY:📋 Office Day — OPO (08:30–17:30 GMT)
-DESCRIPTION:OPO\n08:30–17:30 GMT
+SUMMARY:📋 Office Day — Porto (08:30–17:30 GMT)
+DESCRIPTION:Porto\n08:30–17:30 GMT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261112-flying@kudzi-roster
 DTSTART:20261112T105000Z
 DTEND:20261112T145500Z
 SUMMARY:✈️ Travelling to Dublin — as a passenger
-DESCRIPTION:Leave home: ~10:50 GMT\nCheck-in: 11:50 GMT\n\nFR7073 OPO → Dublin\nDep: 12:10 GMT | Arr: 14:35 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7073\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it
+DESCRIPTION:Leave home: ~10:50 GMT\nCheck-in: 11:50 GMT\n\nFR7073 Porto → Dublin\nDep: 12:10 GMT | Arr: 14:35 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7073\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it
 URL:https://www.flightradar24.com/data/flights/fr7073
 END:VEVENT
 BEGIN:VEVENT
-UID:20261112-flying@kudzi-roster
+UID:20261112-flying-2@kudzi-roster
 DTSTART:20261112T175500Z
 DTEND:20261112T204500Z
 SUMMARY:✈️ Travelling home to Newcastle — as a passenger
