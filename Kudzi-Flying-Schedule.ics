@@ -6,6 +6,14 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
+UID:20261031-flying@kudzi-roster
+DTSTART:20261031T044000Z
+DTEND:20261031T124500Z
+SUMMARY:✈️ FR6241/6240 — Budapest (Worked Day Off)
+DESCRIPTION:🌅 Up at ~03:55 GMT\nLeave home: ~04:40 GMT\nCheck-in: 05:40 GMT\n\nFR6241 Newcastle → Budapest\nDep: 06:25 GMT | Arr: 09:05 GMT\nTrack: https://www.flightradar24.com/data/flights/fr6241\n\nFR6240 Budapest → Newcastle\nDep: 09:30 GMT | Arr: 12:15 GMT\nTrack: https://www.flightradar24.com/data/flights/fr6240\n\nHome around ~13:15 GMT\n💰 Worked day off\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr6241
+END:VEVENT
+BEGIN:VEVENT
 UID:20261102-flying@kudzi-roster
 DTSTART:20261102T112000Z
 DTEND:20261102T233000Z
