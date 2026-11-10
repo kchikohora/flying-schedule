@@ -8,17 +8,17 @@ X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
 UID:20261109-flying@kudzi-roster
 DTSTART:20261109T054000Z
-DTEND:20261109T082500Z
+DTEND:20261109T080000Z
 SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ Travelling to Dublin — as a passenger
-DESCRIPTION:Leave home: ~05:40 GMT\nCheck-in: 06:40 GMT\n\nFR17 Newcastle → Dublin\nDep: 07:00 GMT | Arr: 08:05 GMT\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+DESCRIPTION:🌅 Up at ~04:55 GMT\nLeave home: ~05:40 GMT\nCheck-in: 06:40 GMT\n\nFR17 Newcastle → Dublin\nDep: 06:53 GMT | Arr: 07:40 GMT\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
 URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
 UID:20261109-flying-2@kudzi-roster
 DTSTART:20261109T100500Z
-DTEND:20261109T141000Z
+DTEND:20261109T144700Z
 SUMMARY:✈️ Travelling to Porto — as a passenger
-DESCRIPTION:Leave home: ~10:05 GMT\nCheck-in: 11:05 GMT\n\nFR7078 Dublin → Porto\nDep: 11:25 GMT | Arr: 13:50 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7078\n\n🌙 Night stop in Porto\nKudzi is a passenger on this flight, not working it
+DESCRIPTION:Leave home: ~10:05 GMT\nCheck-in: 11:05 GMT\n\nFR7078 Dublin → Porto\nDep: 12:04 GMT | Arr: 14:27 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7078\n\n🌙 Night stop in Porto\nKudzi is a passenger on this flight, not working it
 URL:https://www.flightradar24.com/data/flights/fr7078
 END:VEVENT
 BEGIN:VEVENT
@@ -105,12 +105,11 @@ SUMMARY:📋 Office Day — Newcastle (10:30–17:30 GMT)
 DESCRIPTION:Newcastle\n10:30–17:30 GMT
 END:VEVENT
 BEGIN:VEVENT
-UID:20261126-flying@kudzi-roster
-DTSTART:20261126T054500Z
-DTEND:20261126T143000Z
-SUMMARY:✈️ FR4080/4079 — Alicante
-DESCRIPTION:Leave home: ~05:45 GMT\nCheck-in: 06:45 GMT\n\nFR4080 Newcastle → Alicante\nDep: 07:30 GMT | Arr: 10:25 GMT\nTrack: https://www.flightradar24.com/data/flights/fr4080\n\nFR4079 Alicante → Newcastle\nDep: 11:00 GMT | Arr: 14:00 GMT\nTrack: https://www.flightradar24.com/data/flights/fr4079\n\nHome around ~15:00 GMT\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr4080
+UID:20261126-al@kudzi-roster
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
 UID:20261130-flying@kudzi-roster
