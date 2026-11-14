@@ -6,52 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20261109-flying@kudzi-roster
-DTSTART:20261109T054000Z
-DTEND:20261109T080000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ Travelling to Dublin — as a passenger
-DESCRIPTION:🌅 Up at ~04:55 GMT\nLeave home: ~05:40 GMT\nCheck-in: 06:40 GMT\n\nFR17 Newcastle → Dublin\nDep: 06:53 GMT | Arr: 07:40 GMT\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
-URL:https://www.flightradar24.com/data/flights/fr17
-END:VEVENT
-BEGIN:VEVENT
-UID:20261109-flying-2@kudzi-roster
-DTSTART:20261109T100500Z
-DTEND:20261109T144700Z
-SUMMARY:✈️ Travelling to Porto — as a passenger
-DESCRIPTION:Leave home: ~10:05 GMT\nCheck-in: 11:05 GMT\n\nFR7078 Dublin → Porto\nDep: 12:04 GMT | Arr: 14:27 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7078\n\n🌙 Night stop in Porto\nKudzi is a passenger on this flight, not working it
-URL:https://www.flightradar24.com/data/flights/fr7078
-END:VEVENT
-BEGIN:VEVENT
-UID:20261110-office@kudzi-roster
-DTSTART:20261110T083000Z
-DTEND:20261110T173000Z
-SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Porto (08:30–17:30 GMT)
-DESCRIPTION:Porto\n08:30–17:30 GMT\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
-END:VEVENT
-BEGIN:VEVENT
-UID:20261111-office@kudzi-roster
-DTSTART:20261111T083000Z
-DTEND:20261111T173000Z
-SUMMARY:📋 Office Day — Porto (08:30–17:30 GMT)
-DESCRIPTION:Porto\n08:30–17:30 GMT
-END:VEVENT
-BEGIN:VEVENT
-UID:20261112-flying@kudzi-roster
-DTSTART:20261112T105000Z
-DTEND:20261112T145500Z
-SUMMARY:✈️ Travelling to Dublin — as a passenger
-DESCRIPTION:Leave home: ~10:50 GMT\nCheck-in: 11:50 GMT\n\nFR7073 Porto → Dublin\nDep: 12:10 GMT | Arr: 14:35 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7073\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it
-URL:https://www.flightradar24.com/data/flights/fr7073
-END:VEVENT
-BEGIN:VEVENT
-UID:20261112-flying-2@kudzi-roster
-DTSTART:20261112T175500Z
-DTEND:20261112T204500Z
-SUMMARY:✈️ Travelling home to Newcastle — as a passenger
-DESCRIPTION:Leave home: ~17:55 GMT\nCheck-in: 18:55 GMT\n\nFR20 Dublin → Newcastle\nDep: 19:15 GMT | Arr: 20:25 GMT\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~21:25 GMT\nKudzi is a passenger on this flight, not working it
-URL:https://www.flightradar24.com/data/flights/fr20
-END:VEVENT
-BEGIN:VEVENT
 UID:20261116-flying@kudzi-roster
 DTSTART:20261116T112000Z
 DTEND:20261116T233000Z
@@ -156,6 +110,74 @@ DTEND:20261206T210500Z
 SUMMARY:✈️ FR2340/2260 — Faro (Worked Day Off)
 DESCRIPTION:Leave home: ~12:10 GMT\nCheck-in: 13:10 GMT\n\nFR2340 Newcastle → Faro\nDep: 13:55 GMT | Arr: 17:00 GMT\nTrack: https://www.flightradar24.com/data/flights/fr2340\n\nFR2260 Faro → Newcastle\nDep: 17:25 GMT | Arr: 20:35 GMT\nTrack: https://www.flightradar24.com/data/flights/fr2260\n\nHome around ~21:35 GMT\n💰 Worked day off\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr2340
+END:VEVENT
+BEGIN:VEVENT
+UID:20261207-flying@kudzi-roster
+DTSTART:20261207T114000Z
+DTEND:20261207T231500Z
+SUMMARY:✈️ FR414/415 — Lanzarote
+DESCRIPTION:Leave home: ~11:40 GMT\nCheck-in: 12:40 GMT\n\nFR414 Newcastle → Lanzarote\nDep: 13:25 GMT | Arr: 17:50 GMT\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 18:25 GMT | Arr: 22:45 GMT\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around ~23:45 GMT\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr414
+END:VEVENT
+BEGIN:VEVENT
+UID:20261208-hsby@kudzi-roster
+DTSTART:20261208T113000Z
+DTEND:20261208T203000Z
+SUMMARY:🏠 Home Standby — on call until 20:30 GMT
+DESCRIPTION:On call from home — standby until 20:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261209-office@kudzi-roster
+DTSTART:20261209T083000Z
+DTEND:20261209T173000Z
+SUMMARY:📋 Office Day — Newcastle (08:30–17:30 GMT)
+DESCRIPTION:Newcastle\n08:30–17:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-flying@kudzi-roster
+DTSTART:20261109T054000Z
+DTEND:20261109T080000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — ✈️ Travelling to Dublin — as a passenger
+DESCRIPTION:🌅 Up at ~04:55 GMT\nLeave home: ~05:40 GMT\nCheck-in: 06:40 GMT\n\nFR17 Newcastle → Dublin\nDep: 06:53 GMT | Arr: 07:40 GMT\nTrack: https://www.flightradar24.com/data/flights/fr17\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+URL:https://www.flightradar24.com/data/flights/fr17
+END:VEVENT
+BEGIN:VEVENT
+UID:20261109-flying-2@kudzi-roster
+DTSTART:20261109T100500Z
+DTEND:20261109T144700Z
+SUMMARY:✈️ Travelling to Porto — as a passenger
+DESCRIPTION:Leave home: ~10:05 GMT\nCheck-in: 11:05 GMT\n\nFR7078 Dublin → Porto\nDep: 12:04 GMT | Arr: 14:27 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7078\n\n🌙 Night stop in Porto\nKudzi is a passenger on this flight, not working it
+URL:https://www.flightradar24.com/data/flights/fr7078
+END:VEVENT
+BEGIN:VEVENT
+UID:20261110-office@kudzi-roster
+DTSTART:20261110T083000Z
+DTEND:20261110T173000Z
+SUMMARY:⚠️ Iris drop-off needed, Kudzi away — 📋 Office Day — Porto (08:30–17:30 GMT)
+DESCRIPTION:Porto\n08:30–17:30 GMT\n⚠️ Iris nursery drop-off needed (~08:00) — Kudzi not available
+END:VEVENT
+BEGIN:VEVENT
+UID:20261111-office@kudzi-roster
+DTSTART:20261111T083000Z
+DTEND:20261111T173000Z
+SUMMARY:📋 Office Day — Porto (08:30–17:30 GMT)
+DESCRIPTION:Porto\n08:30–17:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-flying@kudzi-roster
+DTSTART:20261112T105000Z
+DTEND:20261112T145500Z
+SUMMARY:✈️ Travelling to Dublin — as a passenger
+DESCRIPTION:Leave home: ~10:50 GMT\nCheck-in: 11:50 GMT\n\nFR7073 Porto → Dublin\nDep: 12:10 GMT | Arr: 14:35 GMT\nTrack: https://www.flightradar24.com/data/flights/fr7073\n\n🌙 Night stop in Dublin\nKudzi is a passenger on this flight, not working it
+URL:https://www.flightradar24.com/data/flights/fr7073
+END:VEVENT
+BEGIN:VEVENT
+UID:20261112-flying-2@kudzi-roster
+DTSTART:20261112T175500Z
+DTEND:20261112T204500Z
+SUMMARY:✈️ Travelling home to Newcastle — as a passenger
+DESCRIPTION:Leave home: ~17:55 GMT\nCheck-in: 18:55 GMT\n\nFR20 Dublin → Newcastle\nDep: 19:15 GMT | Arr: 20:25 GMT\nTrack: https://www.flightradar24.com/data/flights/fr20\n\nHome around ~21:25 GMT\nKudzi is a passenger on this flight, not working it
+URL:https://www.flightradar24.com/data/flights/fr20
 END:VEVENT
 BEGIN:VEVENT
 UID:20261031-flying@kudzi-roster
@@ -1281,34 +1303,6 @@ DTEND:20260618T103500Z
 SUMMARY:✈️ FR460/461 — Bergamo (Milan)
 DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr460
-END:VEVENT
-BEGIN:VEVENT
-UID:20261207-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261207
-DTEND;VALUE=DATE:20261208
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261208-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261208
-DTEND;VALUE=DATE:20261209
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261209-office@kudzi-roster
-DTSTART:20261209T090000Z
-DTEND:20261209T170000Z
-SUMMARY:📋 Office Day — Newcastle (09:00–17:00 GMT)
-DESCRIPTION:Newcastle\n09:00–17:00 GMT
-END:VEVENT
-BEGIN:VEVENT
-UID:20261210-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261210
-DTEND;VALUE=DATE:20261211
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261214-pattern@kudzi-roster
