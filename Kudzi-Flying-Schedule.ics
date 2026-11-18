@@ -8,9 +8,9 @@ X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
 UID:20261116-flying@kudzi-roster
 DTSTART:20261116T112000Z
-DTEND:20261116T233000Z
+DTEND:20261116T232100Z
 SUMMARY:✈️ FR416/417 — Tenerife South
-DESCRIPTION:Leave home: ~11:20 GMT\nCheck-in: 12:20 GMT\n\nFR416 Newcastle → Tenerife South\nDep: 13:05 GMT | Arr: 17:50 GMT\nTrack: https://www.flightradar24.com/data/flights/fr416\n\nFR417 Tenerife South → Newcastle\nDep: 18:25 GMT | Arr: 23:00 GMT\nTrack: https://www.flightradar24.com/data/flights/fr417\n\nHome around ~00:00 GMT (17 Nov)\n2 sectors today
+DESCRIPTION:Leave home: ~11:20 GMT\nCheck-in: 12:20 GMT\n\nFR416 Newcastle → Tenerife South\nDep: 13:00 GMT | Arr: 17:19 GMT\nTrack: https://www.flightradar24.com/data/flights/fr416\n\nFR417 Tenerife South → Newcastle\nDep: 18:16 GMT | Arr: 22:51 GMT\nTrack: https://www.flightradar24.com/data/flights/fr417\n\nHome around ~23:51 GMT\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr416
 END:VEVENT
 BEGIN:VEVENT
@@ -44,12 +44,11 @@ DESCRIPTION:Leave home: ~14:45 GMT\nCheck-in: 15:45 GMT\n\nFR4080 Newcastle → 
 URL:https://www.flightradar24.com/data/flights/fr4080
 END:VEVENT
 BEGIN:VEVENT
-UID:20261124-flying@kudzi-roster
-DTSTART:20261124T121500Z
-DTEND:20261124T210000Z
-SUMMARY:✈️ FR4080/4079 — Alicante
-DESCRIPTION:Leave home: ~12:15 GMT\nCheck-in: 13:15 GMT\n\nFR4080 Newcastle → Alicante\nDep: 14:00 GMT | Arr: 16:55 GMT\nTrack: https://www.flightradar24.com/data/flights/fr4080\n\nFR4079 Alicante → Newcastle\nDep: 17:30 GMT | Arr: 20:30 GMT\nTrack: https://www.flightradar24.com/data/flights/fr4079\n\nHome around ~21:30 GMT\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr4080
+UID:20261124-hsby@kudzi-roster
+DTSTART:20261124T113000Z
+DTEND:20261124T223000Z
+SUMMARY:🏠 Home Standby — on call until 22:30 GMT
+DESCRIPTION:On call from home — standby until 22:30 GMT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261125-office@kudzi-roster
