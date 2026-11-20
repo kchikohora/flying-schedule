@@ -6,34 +6,11 @@ METHOD:PUBLISH
 X-WR-CALNAME:Kudzi's Flying Schedule
 X-WR-CALDESC:Kudzi's Ryanair flying schedule
 BEGIN:VEVENT
-UID:20261116-flying@kudzi-roster
-DTSTART:20261116T112000Z
-DTEND:20261116T232100Z
-SUMMARY:✈️ FR416/417 — Tenerife South
-DESCRIPTION:Leave home: ~11:20 GMT\nCheck-in: 12:20 GMT\n\nFR416 Newcastle → Tenerife South\nDep: 13:00 GMT | Arr: 17:19 GMT\nTrack: https://www.flightradar24.com/data/flights/fr416\n\nFR417 Tenerife South → Newcastle\nDep: 18:16 GMT | Arr: 22:51 GMT\nTrack: https://www.flightradar24.com/data/flights/fr417\n\nHome around ~23:51 GMT\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr416
-END:VEVENT
-BEGIN:VEVENT
-UID:20261118-office@kudzi-roster
-DTSTART:20261118T083000Z
-DTEND:20261118T173000Z
-SUMMARY:📋 Office Day — Newcastle (08:30–17:30 GMT)
-DESCRIPTION:Newcastle\n08:30–17:30 GMT
-END:VEVENT
-BEGIN:VEVENT
-UID:20261119-flying@kudzi-roster
-DTSTART:20261119T043000Z
-DTEND:20261119T163500Z
-SUMMARY:✈️ FR425/426 — Gran Canaria
-DESCRIPTION:🌅 Up at ~03:45 GMT\nLeave home: ~04:30 GMT\nCheck-in: 05:30 GMT\n\nFR425 Newcastle → Gran Canaria\nDep: 06:15 GMT | Arr: 10:55 GMT\nTrack: https://www.flightradar24.com/data/flights/fr425\n\nFR426 Gran Canaria → Newcastle\nDep: 11:30 GMT | Arr: 16:05 GMT\nTrack: https://www.flightradar24.com/data/flights/fr426\n\nHome around ~17:05 GMT\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr425
-END:VEVENT
-BEGIN:VEVENT
-UID:20261120-office@kudzi-roster
-DTSTART:20261120T083000Z
-DTEND:20261120T163000Z
-SUMMARY:📋 Office Day — Newcastle (08:30–16:30 GMT)
-DESCRIPTION:Newcastle\n08:30–16:30 GMT
+UID:20261120-hsby@kudzi-roster
+DTSTART:20261120T041500Z
+DTEND:20261120T150000Z
+SUMMARY:🏠 Home Standby — on call until 15:00 GMT
+DESCRIPTION:On call from home — standby until 15:00 GMT
 END:VEVENT
 BEGIN:VEVENT
 UID:20261123-flying@kudzi-roster
@@ -96,11 +73,11 @@ URL:https://www.flightradar24.com/data/flights/fr4080
 END:VEVENT
 BEGIN:VEVENT
 UID:20261204-flying@kudzi-roster
-DTSTART:20261204T043000Z
-DTEND:20261204T160500Z
-SUMMARY:✈️ FR414/415 — Lanzarote
-DESCRIPTION:🌅 Up at ~03:45 GMT\nLeave home: ~04:30 GMT\nCheck-in: 05:30 GMT\n\nFR414 Newcastle → Lanzarote\nDep: 06:15 GMT | Arr: 10:40 GMT\nTrack: https://www.flightradar24.com/data/flights/fr414\n\nFR415 Lanzarote → Newcastle\nDep: 11:15 GMT | Arr: 15:35 GMT\nTrack: https://www.flightradar24.com/data/flights/fr415\n\nHome around ~16:35 GMT\n2 sectors today
-URL:https://www.flightradar24.com/data/flights/fr414
+DTSTART:20261204T041500Z
+DTEND:20261204T143500Z
+SUMMARY:✈️ FR17/16/460/461 — Dublin + Bergamo
+DESCRIPTION:🌅 Up at ~03:30 GMT\nLeave home: ~04:15 GMT\nCheck-in: 05:15 GMT\n\nFR17 Newcastle → Dublin\nDep: 06:00 GMT | Arr: 07:05 GMT\nTrack: https://www.flightradar24.com/data/flights/fr17\n\nFR16 Dublin → Newcastle\nDep: 07:30 GMT | Arr: 08:40 GMT\nTrack: https://www.flightradar24.com/data/flights/fr16\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 09:05 GMT | Arr: 11:20 GMT\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 11:45 GMT | Arr: 14:05 GMT\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~15:05 GMT\n4 sectors today
+URL:https://www.flightradar24.com/data/flights/fr17
 END:VEVENT
 BEGIN:VEVENT
 UID:20261206-flying@kudzi-roster
@@ -131,6 +108,65 @@ DTSTART:20261209T083000Z
 DTEND:20261209T173000Z
 SUMMARY:📋 Office Day — Newcastle (08:30–17:30 GMT)
 DESCRIPTION:Newcastle\n08:30–17:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261214-flying@kudzi-roster
+DTSTART:20261214T112000Z
+DTEND:20261214T233000Z
+SUMMARY:✈️ FR416/417 — Tenerife South
+DESCRIPTION:Leave home: ~11:20 GMT\nCheck-in: 12:20 GMT\n\nFR416 Newcastle → Tenerife South\nDep: 13:05 GMT | Arr: 17:50 GMT\nTrack: https://www.flightradar24.com/data/flights/fr416\n\nFR417 Tenerife South → Newcastle\nDep: 18:25 GMT | Arr: 23:00 GMT\nTrack: https://www.flightradar24.com/data/flights/fr417\n\nHome around ~00:00 GMT (15 Dec)\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr416
+END:VEVENT
+BEGIN:VEVENT
+UID:20261215-hsby@kudzi-roster
+DTSTART:20261215T113000Z
+DTEND:20261215T203000Z
+SUMMARY:🏠 Home Standby — on call until 20:30 GMT
+DESCRIPTION:On call from home — standby until 20:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261216-office@kudzi-roster
+DTSTART:20261216T083000Z
+DTEND:20261216T173000Z
+SUMMARY:📋 Office Day — Newcastle (08:30–17:30 GMT)
+DESCRIPTION:Newcastle\n08:30–17:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261217-al@kudzi-roster
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20261218-al@kudzi-roster
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:🏖️ Annual Leave
+DESCRIPTION:1 day annual leave
+END:VEVENT
+BEGIN:VEVENT
+UID:20261116-flying@kudzi-roster
+DTSTART:20261116T112000Z
+DTEND:20261116T232100Z
+SUMMARY:✈️ FR416/417 — Tenerife South
+DESCRIPTION:Leave home: ~11:20 GMT\nCheck-in: 12:20 GMT\n\nFR416 Newcastle → Tenerife South\nDep: 13:00 GMT | Arr: 17:19 GMT\nTrack: https://www.flightradar24.com/data/flights/fr416\n\nFR417 Tenerife South → Newcastle\nDep: 18:16 GMT | Arr: 22:51 GMT\nTrack: https://www.flightradar24.com/data/flights/fr417\n\nHome around ~23:51 GMT\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr416
+END:VEVENT
+BEGIN:VEVENT
+UID:20261118-office@kudzi-roster
+DTSTART:20261118T083000Z
+DTEND:20261118T173000Z
+SUMMARY:📋 Office Day — Newcastle (08:30–17:30 GMT)
+DESCRIPTION:Newcastle\n08:30–17:30 GMT
+END:VEVENT
+BEGIN:VEVENT
+UID:20261119-flying@kudzi-roster
+DTSTART:20261119T043000Z
+DTEND:20261119T163500Z
+SUMMARY:✈️ FR425/426 — Gran Canaria
+DESCRIPTION:🌅 Up at ~03:45 GMT\nLeave home: ~04:30 GMT\nCheck-in: 05:30 GMT\n\nFR425 Newcastle → Gran Canaria\nDep: 06:15 GMT | Arr: 10:55 GMT\nTrack: https://www.flightradar24.com/data/flights/fr425\n\nFR426 Gran Canaria → Newcastle\nDep: 11:30 GMT | Arr: 16:05 GMT\nTrack: https://www.flightradar24.com/data/flights/fr426\n\nHome around ~17:05 GMT\n2 sectors today
+URL:https://www.flightradar24.com/data/flights/fr425
 END:VEVENT
 BEGIN:VEVENT
 UID:20261109-flying@kudzi-roster
@@ -840,20 +876,6 @@ SUMMARY:🏖️ Annual Leave
 DESCRIPTION:1 day annual leave
 END:VEVENT
 BEGIN:VEVENT
-UID:20261215-al@kudzi-roster
-DTSTART;VALUE=DATE:20261215
-DTEND;VALUE=DATE:20261216
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
-UID:20261217-al@kudzi-roster
-DTSTART;VALUE=DATE:20261217
-DTEND;VALUE=DATE:20261218
-SUMMARY:🏖️ Annual Leave
-DESCRIPTION:1 day annual leave
-END:VEVENT
-BEGIN:VEVENT
 UID:20261225-al@kudzi-roster
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
@@ -1302,27 +1324,6 @@ DTEND:20260618T103500Z
 SUMMARY:✈️ FR460/461 — Bergamo (Milan)
 DESCRIPTION:🌅 Up at ~03:30 BST\nLeave home: ~04:15 BST\nCheck-in: 05:15 BST\n\nFR460 Newcastle → Bergamo (Milan)\nDep: 06:00 BST | Arr: 08:15 BST\nTrack: https://www.flightradar24.com/data/flights/fr460\n\nFR461 Bergamo (Milan) → Newcastle\nDep: 08:40 BST | Arr: 11:05 BST\nTrack: https://www.flightradar24.com/data/flights/fr461\n\nHome around ~12:05 BST\n2 sectors today
 URL:https://www.flightradar24.com/data/flights/fr460
-END:VEVENT
-BEGIN:VEVENT
-UID:20261214-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261214
-DTEND;VALUE=DATE:20261215
-SUMMARY:🌆 Late Shift
-DESCRIPTION:Roster not published yet\nDeparts from midday (approx)
-END:VEVENT
-BEGIN:VEVENT
-UID:20261216-office@kudzi-roster
-DTSTART:20261216T090000Z
-DTEND:20261216T170000Z
-SUMMARY:📋 Office Day — Newcastle (09:00–17:00 GMT)
-DESCRIPTION:Newcastle\n09:00–17:00 GMT
-END:VEVENT
-BEGIN:VEVENT
-UID:20261218-pattern@kudzi-roster
-DTSTART;VALUE=DATE:20261218
-DTEND;VALUE=DATE:20261219
-SUMMARY:🌅 Early Shift
-DESCRIPTION:Roster not published yet\nExpected early departure (~06:00)
 END:VEVENT
 BEGIN:VEVENT
 UID:20261221-pattern@kudzi-roster
